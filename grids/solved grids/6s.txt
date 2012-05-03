@@ -1,0 +1,901 @@
+Solution 1
+   1  2  3  4  5  6  7 
+ 1    R     A  F  T    
+ 2 S  U  N  S     W    
+ 3 H  E  A  P     O  H 
+ 4 O     P     W     E 
+ 5 W        S  K  Y    
+ 6 N  A  P  E     E    
+ 7       M  A  Y  A  S 
+Solution 2
+   1  2  3  4  5  6  7 
+ 1    H     A  F  T    
+ 2 S  U  N  S     H    
+ 3 H  E  A  P     O  H 
+ 4 A     B     O     O 
+ 5 W        S  K  Y    
+ 6 N  O  P  E     E    
+ 7       M  A  M  A  S 
+Solution 3
+   1  2  3  4  5  6  7 
+ 1    Q     A  P  T    
+ 2 S  U  N  S     H    
+ 3 H  E  A  P     O  H 
+ 4 O     N     O     O 
+ 5 R        S  K  Y    
+ 6 N  O  P  E     E    
+ 7       M  A  Y  A  N 
+Solution 4
+   1  2  3  4  5  6  7 
+ 1    C     A  R  T    
+ 2 S  U  N  S     W    
+ 3 H  E  A  P     O  H 
+ 4 A     Y     O     O 
+ 5 W        S  K  Y    
+ 6 N  O  P  E     E    
+ 7       M  A  M  A  S 
+Solution 5
+   1  2  3  4  5  6  7 
+ 1    R     A  N  T    
+ 2 S  U  N  S     W    
+ 3 H  E  A  P     O  H 
+ 4 O     Y     O     E 
+ 5 W        S  K  Y    
+ 6 N  O  P  E     E    
+ 7       M  A  M  A  S 
+Solution 6
+   1  2  3  4  5  6  7 
+ 1    D     A  F  T    
+ 2 S  U  N  S     W    
+ 3 H  E  A  P     O  H 
+ 4 O     E     W     A 
+ 5 R        S  K  Y    
+ 6 N  O  P  E     E    
+ 7       M  A  N  A  S 
+Solution 7
+   1  2  3  4  5  6  7 
+ 1    Q     A  P  T    
+ 2 S  U  N  S     H    
+ 3 H  E  A  P     O  H 
+ 4 E     Y     W     O 
+ 5 W        S  K  Y    
+ 6 N  A  P  E     E    
+ 7       M  A  C  A  W 
+Solution 8
+   1  2  3  4  5  6  7 
+ 1    D     A  F  T    
+ 2 S  U  N  S     H    
+ 3 H  E  A  P     O  H 
+ 4 O     G     W     R 
+ 5 R        S  K  Y    
+ 6 N  A  P  E     E    
+ 7       M  A  M  A  S 
+Solution 9
+   1  2  3  4  5  6  7 
+ 1    R     A  P  T    
+ 2 S  U  N  S     A    
+ 3 H  E  A  P     O  H 
+ 4 E     N     W     E 
+ 5 W        S  K  Y    
+ 6 N  A  P  E     E    
+ 7       M  A  Y  A  N 
+Solution 10
+   1  2  3  4  5  6  7 
+ 1    Q     A  F  T    
+ 2 S  U  N  S     H    
+ 3 H  E  A  P     O  H 
+ 4 O     N     O     R 
+ 5 R        S  K  Y    
+ 6 N  O  P  E     E    
+ 7       M  A  L  A  Y 
+Solution 11
+   1  2  3  4  5  6  7 
+ 1    Q     A  F  T    
+ 2 S  U  N  S     A    
+ 3 H  E  A  P     O  H 
+ 4 A     M     O     P 
+ 5 W        S  K  Y    
+ 6 N  A  P  E     E    
+ 7       M  A  C  A  W 
+Solution 12
+   1  2  3  4  5  6  7 
+ 1    Q     A  R  T    
+ 2 S  U  N  S     A    
+ 3 H  E  A  P     O  H 
+ 4 E     N     O     R 
+ 5 W        S  K  Y    
+ 6 N  O  P  E     E    
+ 7       M  A  M  A  S 
+Solution 13
+   1  2  3  4  5  6  7 
+ 1    S     A  P  T    
+ 2 S  U  N  S     H    
+ 3 H  E  A  P     O  H 
+ 4 E     P     O     O 
+ 5 E        S  K  Y    
+ 6 N  O  P  E     E    
+ 7       M  A  N  A  S 
+Solution 14
+   1  2  3  4  5  6  7 
+ 1    Q     A  P  T    
+ 2 S  U  N  S     A    
+ 3 H  E  A  P     O  H 
+ 4 A     P     O     E 
+ 5 W        S  K  Y    
+ 6 N  O  P  E     E    
+ 7       M  A  C  A  W 
+Solution 15
+   1  2  3  4  5  6  7 
+ 1    S     A  B  T    
+ 2 S  U  N  S     A    
+ 3 H  E  A  P     O  H 
+ 4 O     P     W     E 
+ 5 W        S  K  Y    
+ 6 N  O  P  E     E    
+ 7       M  A  L  A  Y 
+Solution 16
+   1  2  3  4  5  6  7 
+ 1    D     A  L  T    
+ 2 S  U  N  S     W    
+ 3 H  E  A  P     O  H 
+ 4 O     P     O     R 
+ 5 W        S  K  Y    
+ 6 N  A  P  E     E    
+ 7       M  A  M  A  S 
+Solution 17
+   1  2  3  4  5  6  7 
+ 1    S     A  F  T    
+ 2 S  U  N  S     W    
+ 3 H  E  A  P     O  H 
+ 4 O     P     W     P 
+ 5 W        S  K  Y    
+ 6 N  A  P  E     E    
+ 7       M  A  L  A  Y 
+Solution 18
+   1  2  3  4  5  6  7 
+ 1    C     A  N  T    
+ 2 S  U  N  S     H    
+ 3 H  E  A  P     O  H 
+ 4 O     M     O     A 
+ 5 R        S  K  Y    
+ 6 N  A  P  E     E    
+ 7       M  A  M  A  S 
+Solution 19
+   1  2  3  4  5  6  7 
+ 1    H     A  B  T    
+ 2 S  U  N  S     O    
+ 3 H  E  A  P     O  H 
+ 4 E     E     O     P 
+ 5 E        S  K  Y    
+ 6 N  O  P  E     E    
+ 7       M  A  L  A  Y 
+Solution 20
+   1  2  3  4  5  6  7 
+ 1    R     A  P  T    
+ 2 S  U  N  S     O    
+ 3 H  E  A  P     O  H 
+ 4 E     M     W     O 
+ 5 W        S  K  Y    
+ 6 N  A  P  E     E    
+ 7       M  A  C  A  W 
+Solution 21
+   1  2  3  4  5  6  7 
+ 1    R     A  B  T    
+ 2 S  U  N  S     A    
+ 3 H  E  A  P     O  H 
+ 4 O     N     O     A 
+ 5 R        S  K  Y    
+ 6 N  A  P  E     E    
+ 7       M  A  C  A  W 
+Solution 22
+   1  2  3  4  5  6  7 
+ 1    S     A  N  T    
+ 2 S  U  N  S     W    
+ 3 H  E  A  P     O  H 
+ 4 A     N     O     O 
+ 5 W        S  K  Y    
+ 6 N  A  P  E     E    
+ 7       M  A  N  A  S 
+Solution 23
+   1  2  3  4  5  6  7 
+ 1    C     A  B  T    
+ 2 S  U  N  S     O    
+ 3 H  E  A  P     O  H 
+ 4 E     G     O     I 
+ 5 W        S  K  Y    
+ 6 N  A  P  E     E    
+ 7       M  A  N  A  S 
+Solution 24
+   1  2  3  4  5  6  7 
+ 1    D     A  P  T    
+ 2 S  U  N  S     H    
+ 3 H  E  A  P     O  H 
+ 4 E     B     W     P 
+ 5 W        S  K  Y    
+ 6 N  A  P  E     E    
+ 7       M  A  Y  A  N 
+Solution 25
+   1  2  3  4  5  6  7 
+ 1    S     A  R  T    
+ 2 S  U  N  S     A    
+ 3 H  E  A  P     O  H 
+ 4 E     E     W     O 
+ 5 E        S  K  Y    
+ 6 N  O  P  E     E    
+ 7       M  A  D  A  M 
+Solution 26
+   1  2  3  4  5  6  7 
+ 1    D     A  L  T    
+ 2 S  U  N  S     H    
+ 3 H  E  A  P     O  H 
+ 4 O     Y     O     E 
+ 5 R        S  K  Y    
+ 6 N  A  P  E     E    
+ 7       M  A  M  A  S 
+Solution 27
+   1  2  3  4  5  6  7 
+ 1    R     A  P  T    
+ 2 S  U  N  S     A    
+ 3 H  E  A  P     O  H 
+ 4 O     G     O     P 
+ 5 W        S  K  Y    
+ 6 N  A  P  E     E    
+ 7       M  A  Y  A  S 
+Solution 28
+   1  2  3  4  5  6  7 
+ 1    C     A  B  T    
+ 2 S  U  N  S     W    
+ 3 H  E  A  P     O  H 
+ 4 E     N     O     P 
+ 5 E        S  K  Y    
+ 6 N  A  P  E     E    
+ 7       M  A  L  A  Y 
+Solution 29
+   1  2  3  4  5  6  7 
+ 1    S     A  P  T    
+ 2 S  U  N  S     A    
+ 3 H  E  A  P     O  H 
+ 4 O     Y     W     O 
+ 5 R        S  K  Y    
+ 6 N  A  P  E     E    
+ 7       M  A  C  A  W 
+Solution 30
+   1  2  3  4  5  6  7 
+ 1    D     A  B  T    
+ 2 S  U  N  S     H    
+ 3 H  E  A  P     O  H 
+ 4 O     B     W     E 
+ 5 R        S  K  Y    
+ 6 N  A  P  E     E    
+ 7       M  A  Y  A  S 
+Solution 31
+   1  2  3  4  5  6  7 
+ 1    C     A  R  T    
+ 2 S  U  N  S     O    
+ 3 H  E  A  P     O  H 
+ 4 E     Y     O     I 
+ 5 E        S  K  Y    
+ 6 N  O  P  E     E    
+ 7       M  A  N  A  S 
+Solution 32
+   1  2  3  4  5  6  7 
+ 1    C     A  B  T    
+ 2 S  U  N  S     W    
+ 3 H  E  A  P     O  H 
+ 4 O     N     W     R 
+ 5 W        S  K  Y    
+ 6 N  A  P  E     E    
+ 7       M  A  N  A  S 
+Solution 33
+   1  2  3  4  5  6  7 
+ 1    S     A  L  T    
+ 2 S  U  N  S     O    
+ 3 H  E  A  P     O  H 
+ 4 E     Y     W     O 
+ 5 W        S  K  Y    
+ 6 N  O  P  E     E    
+ 7       M  A  Y  A  S 
+Solution 34
+   1  2  3  4  5  6  7 
+ 1    R     A  R  T    
+ 2 S  U  N  S     O    
+ 3 H  E  A  P     O  H 
+ 4 O     E     O     R 
+ 5 W        S  K  Y    
+ 6 N  A  P  E     E    
+ 7       M  A  N  A  S 
+Solution 35
+   1  2  3  4  5  6  7 
+ 1    H     A  P  T    
+ 2 S  U  N  S     A    
+ 3 H  E  A  P     O  H 
+ 4 A     Y     W     E 
+ 5 W        S  K  Y    
+ 6 N  O  P  E     E    
+ 7       M  A  N  A  S 
+Solution 36
+   1  2  3  4  5  6  7 
+ 1    H     A  F  T    
+ 2 S  U  N  S     A    
+ 3 H  E  A  P     O  H 
+ 4 O     B     W     A 
+ 5 R        S  K  Y    
+ 6 N  A  P  E     E    
+ 7       M  A  D  A  M 
+Solution 37
+   1  2  3  4  5  6  7 
+ 1    D     A  R  T    
+ 2 S  U  N  S     A    
+ 3 H  E  A  P     O  H 
+ 4 O     M     W     I 
+ 5 R        S  K  Y    
+ 6 N  O  P  E     E    
+ 7       M  A  N  A  S 
+Solution 38
+   1  2  3  4  5  6  7 
+ 1    R     A  C  T    
+ 2 S  U  N  S     W    
+ 3 H  E  A  P     O  H 
+ 4 E     G     W     E 
+ 5 W        S  K  Y    
+ 6 N  A  P  E     E    
+ 7       M  A  L  A  Y 
+Solution 39
+   1  2  3  4  5  6  7 
+ 1    D     A  B  T    
+ 2 S  U  N  S     H    
+ 3 H  E  A  P     O  H 
+ 4 E     G     W     I 
+ 5 W        S  K  Y    
+ 6 N  O  P  E     E    
+ 7       M  A  Y  A  S 
+Solution 40
+   1  2  3  4  5  6  7 
+ 1    D     A  N  T    
+ 2 S  U  N  S     O    
+ 3 H  E  A  P     O  H 
+ 4 A     B     W     A 
+ 5 W        S  K  Y    
+ 6 N  O  P  E     E    
+ 7       M  A  C  A  W 
+Solution 41
+   1  2  3  4  5  6  7 
+ 1    S     A  B  T    
+ 2 S  U  N  S     H    
+ 3 H  E  A  P     O  H 
+ 4 O     G     O     A 
+ 5 W        S  K  Y    
+ 6 N  A  P  E     E    
+ 7       M  A  M  A  S 
+Solution 42
+   1  2  3  4  5  6  7 
+ 1    Q     A  C  T    
+ 2 S  U  N  S     H    
+ 3 H  E  A  P     O  H 
+ 4 E     N     O     R 
+ 5 W        S  K  Y    
+ 6 N  O  P  E     E    
+ 7       M  A  Y  A  N 
+Solution 43
+   1  2  3  4  5  6  7 
+ 1    H     A  R  T    
+ 2 S  U  N  S     A    
+ 3 H  E  A  P     O  H 
+ 4 E     Y     O     E 
+ 5 E        S  K  Y    
+ 6 N  O  P  E     E    
+ 7       M  A  L  A  Y 
+Solution 44
+   1  2  3  4  5  6  7 
+ 1    C     A  C  T    
+ 2 S  U  N  S     W    
+ 3 H  E  A  P     O  H 
+ 4 E     P     O     O 
+ 5 E        S  K  Y    
+ 6 N  O  P  E     E    
+ 7       M  A  L  A  Y 
+Solution 45
+   1  2  3  4  5  6  7 
+ 1    D     A  L  T    
+ 2 S  U  N  S     A    
+ 3 H  E  A  P     O  H 
+ 4 O     E     W     I 
+ 5 R        S  K  Y    
+ 6 N  O  P  E     E    
+ 7       M  A  Y  A  N 
+Solution 46
+   1  2  3  4  5  6  7 
+ 1    D     A  N  T    
+ 2 S  U  N  S     H    
+ 3 H  E  A  P     O  H 
+ 4 O     G     W     P 
+ 5 W        S  K  Y    
+ 6 N  A  P  E     E    
+ 7       M  A  L  A  Y 
+Solution 47
+   1  2  3  4  5  6  7 
+ 1    S     A  R  T    
+ 2 S  U  N  S     A    
+ 3 H  E  A  P     O  H 
+ 4 E     G     W     I 
+ 5 E        S  K  Y    
+ 6 N  A  P  E     E    
+ 7       M  A  L  A  Y 
+Solution 48
+   1  2  3  4  5  6  7 
+ 1    S     A  N  T    
+ 2 S  U  N  S     W    
+ 3 H  E  A  P     O  H 
+ 4 E     P     O     P 
+ 5 E        S  K  Y    
+ 6 N  A  P  E     E    
+ 7       M  A  C  A  W 
+Solution 49
+   1  2  3  4  5  6  7 
+ 1    R     A  L  T    
+ 2 S  U  N  S     O    
+ 3 H  E  A  P     O  H 
+ 4 E     M     W     I 
+ 5 E        S  K  Y    
+ 6 N  A  P  E     E    
+ 7       M  A  Y  A  S 
+Solution 50
+   1  2  3  4  5  6  7 
+ 1    R     A  C  T    
+ 2 S  U  N  S     H    
+ 3 H  E  A  P     O  H 
+ 4 E     G     O     O 
+ 5 W        S  K  Y    
+ 6 N  O  P  E     E    
+ 7       M  A  Y  A  S 
+Solution 51
+   1  2  3  4  5  6  7 
+ 1    Q     A  F  T    
+ 2 S  U  N  S     A    
+ 3 H  E  A  P     O  H 
+ 4 A     N     W     E 
+ 5 W        S  K  Y    
+ 6 N  A  P  E     E    
+ 7       M  A  C  A  W 
+Solution 52
+   1  2  3  4  5  6  7 
+ 1    S     A  N  T    
+ 2 S  U  N  S     H    
+ 3 H  E  A  P     O  H 
+ 4 O     G     O     R 
+ 5 R        S  K  Y    
+ 6 N  O  P  E     E    
+ 7       M  A  D  A  M 
+Solution 53
+   1  2  3  4  5  6  7 
+ 1    H     A  L  T    
+ 2 S  U  N  S     W    
+ 3 H  E  A  P     O  H 
+ 4 A     G     W     P 
+ 5 W        S  K  Y    
+ 6 N  O  P  E     E    
+ 7       M  A  Y  A  S 
+Solution 54
+   1  2  3  4  5  6  7 
+ 1    H     A  L  T    
+ 2 S  U  N  S     O    
+ 3 H  E  A  P     O  H 
+ 4 E     N     O     R 
+ 5 E        S  K  Y    
+ 6 N  A  P  E     E    
+ 7       M  A  L  A  Y 
+Solution 55
+   1  2  3  4  5  6  7 
+ 1    Q     A  B  T    
+ 2 S  U  N  S     W    
+ 3 H  E  A  P     O  H 
+ 4 E     B     O     O 
+ 5 W        S  K  Y    
+ 6 N  A  P  E     E    
+ 7       M  A  L  A  Y 
+Solution 56
+   1  2  3  4  5  6  7 
+ 1    D     A  P  T    
+ 2 S  U  N  S     W    
+ 3 H  E  A  P     O  H 
+ 4 E     Y     O     I 
+ 5 E        S  K  Y    
+ 6 N  A  P  E     E    
+ 7       M  A  M  A  S 
+Solution 57
+   1  2  3  4  5  6  7 
+ 1    D     A  B  T    
+ 2 S  U  N  S     W    
+ 3 H  E  A  P     O  H 
+ 4 O     N     O     A 
+ 5 W        S  K  Y    
+ 6 N  A  P  E     E    
+ 7       M  A  L  A  Y 
+Solution 58
+   1  2  3  4  5  6  7 
+ 1    D     A  F  T    
+ 2 S  U  N  S     A    
+ 3 H  E  A  P     O  H 
+ 4 A     M     W     O 
+ 5 W        S  K  Y    
+ 6 N  A  P  E     E    
+ 7       M  A  L  A  Y 
+Solution 59
+   1  2  3  4  5  6  7 
+ 1    D     A  F  T    
+ 2 S  U  N  S     W    
+ 3 H  E  A  P     O  H 
+ 4 A     G     O     R 
+ 5 W        S  K  Y    
+ 6 N  O  P  E     E    
+ 7       M  A  N  A  S 
+Solution 60
+   1  2  3  4  5  6  7 
+ 1    Q     A  C  T    
+ 2 S  U  N  S     O    
+ 3 H  E  A  P     O  H 
+ 4 E     N     O     A 
+ 5 W        S  K  Y    
+ 6 N  A  P  E     E    
+ 7       M  A  Y  A  N 
+Solution 61
+   1  2  3  4  5  6  7 
+ 1    Q     A  C  T    
+ 2 S  U  N  S     A    
+ 3 H  E  A  P     O  H 
+ 4 O     N     W     E 
+ 5 W        S  K  Y    
+ 6 N  O  P  E     E    
+ 7       M  A  D  A  M 
+Solution 62
+   1  2  3  4  5  6  7 
+ 1    D     A  R  T    
+ 2 S  U  N  S     A    
+ 3 H  E  A  P     O  H 
+ 4 A     E     W     R 
+ 5 W        S  K  Y    
+ 6 N  O  P  E     E    
+ 7       M  A  L  A  Y 
+Solution 63
+   1  2  3  4  5  6  7 
+ 1    S     A  L  T    
+ 2 S  U  N  S     H    
+ 3 H  E  A  P     O  H 
+ 4 E     Y     O     P 
+ 5 E        S  K  Y    
+ 6 N  O  P  E     E    
+ 7       M  A  M  A  S 
+Solution 64
+   1  2  3  4  5  6  7 
+ 1    S     A  L  T    
+ 2 S  U  N  S     A    
+ 3 H  E  A  P     O  H 
+ 4 E     M     W     P 
+ 5 E        S  K  Y    
+ 6 N  A  P  E     E    
+ 7       M  A  L  A  Y 
+Solution 65
+   1  2  3  4  5  6  7 
+ 1    R     A  B  T    
+ 2 S  U  N  S     H    
+ 3 H  E  A  P     O  H 
+ 4 E     M     O     O 
+ 5 E        S  K  Y    
+ 6 N  A  P  E     E    
+ 7       M  A  L  A  Y 
+Solution 66
+   1  2  3  4  5  6  7 
+ 1    C     A  R  T    
+ 2 S  U  N  S     O    
+ 3 H  E  A  P     O  H 
+ 4 O     M     W     R 
+ 5 W        S  K  Y    
+ 6 N  O  P  E     E    
+ 7       M  A  Y  A  S 
+Solution 67
+   1  2  3  4  5  6  7 
+ 1    D     A  B  T    
+ 2 S  U  N  S     O    
+ 3 H  E  A  P     O  H 
+ 4 E     E     W     P 
+ 5 W        S  K  Y    
+ 6 N  A  P  E     E    
+ 7       M  A  D  A  M 
+Solution 68
+   1  2  3  4  5  6  7 
+ 1    D     A  C  T    
+ 2 S  U  N  S     O    
+ 3 H  E  A  P     O  H 
+ 4 O     B     W     R 
+ 5 R        S  K  Y    
+ 6 N  O  P  E     E    
+ 7       M  A  M  A  S 
+Solution 69
+   1  2  3  4  5  6  7 
+ 1    R     A  B  T    
+ 2 S  U  N  S     W    
+ 3 H  E  A  P     O  H 
+ 4 E     P     O     P 
+ 5 E        S  K  Y    
+ 6 N  O  P  E     E    
+ 7       M  A  Y  A  S 
+Solution 70
+   1  2  3  4  5  6  7 
+ 1    R     A  C  T    
+ 2 S  U  N  S     H    
+ 3 H  E  A  P     O  H 
+ 4 O     Y     O     E 
+ 5 W        S  K  Y    
+ 6 N  A  P  E     E    
+ 7       M  A  Y  A  S 
+Solution 71
+   1  2  3  4  5  6  7 
+ 1    S     A  F  T    
+ 2 S  U  N  S     W    
+ 3 H  E  A  P     O  H 
+ 4 A     Y     O     P 
+ 5 W        S  K  Y    
+ 6 N  O  P  E     E    
+ 7       M  A  C  A  W 
+Solution 72
+   1  2  3  4  5  6  7 
+ 1    C     A  P  T    
+ 2 S  U  N  S     A    
+ 3 H  E  A  P     O  H 
+ 4 A     Y     O     O 
+ 5 W        S  K  Y    
+ 6 N  O  P  E     E    
+ 7       M  A  D  A  M 
+Solution 73
+   1  2  3  4  5  6  7 
+ 1    C     A  C  T    
+ 2 S  U  N  S     H    
+ 3 H  E  A  P     O  H 
+ 4 O     E     W     E 
+ 5 R        S  K  Y    
+ 6 N  O  P  E     E    
+ 7       M  A  M  A  S 
+Solution 74
+   1  2  3  4  5  6  7 
+ 1    D     A  F  T    
+ 2 S  U  N  S     O    
+ 3 H  E  A  P     O  H 
+ 4 E     E     W     O 
+ 5 W        S  K  Y    
+ 6 N  O  P  E     E    
+ 7       M  A  Y  A  N 
+Solution 75
+   1  2  3  4  5  6  7 
+ 1    D     A  N  T    
+ 2 S  U  N  S     O    
+ 3 H  E  A  P     O  H 
+ 4 E     Y     O     P 
+ 5 E        S  K  Y    
+ 6 N  O  P  E     E    
+ 7       M  A  M  A  S 
+Solution 76
+   1  2  3  4  5  6  7 
+ 1    S     A  N  T    
+ 2 S  U  N  S     W    
+ 3 H  E  A  P     O  H 
+ 4 O     N     W     O 
+ 5 W        S  K  Y    
+ 6 N  A  P  E     E    
+ 7       M  A  M  A  S 
+Solution 77
+   1  2  3  4  5  6  7 
+ 1    H     A  R  T    
+ 2 S  U  N  S     A    
+ 3 H  E  A  P     O  H 
+ 4 A     B     W     A 
+ 5 W        S  K  Y    
+ 6 N  A  P  E     E    
+ 7       M  A  M  A  S 
+Solution 78
+   1  2  3  4  5  6  7 
+ 1    H     A  F  T    
+ 2 S  U  N  S     O    
+ 3 H  E  A  P     O  H 
+ 4 O     B     W     E 
+ 5 W        S  K  Y    
+ 6 N  O  P  E     E    
+ 7       M  A  Y  A  S 
+Solution 79
+   1  2  3  4  5  6  7 
+ 1    H     A  B  T    
+ 2 S  U  N  S     W    
+ 3 H  E  A  P     O  H 
+ 4 A     M     O     A 
+ 5 W        S  K  Y    
+ 6 N  O  P  E     E    
+ 7       M  A  Y  A  N 
+Solution 80
+   1  2  3  4  5  6  7 
+ 1    H     A  L  T    
+ 2 S  U  N  S     O    
+ 3 H  E  A  P     O  H 
+ 4 E     M     W     P 
+ 5 E        S  K  Y    
+ 6 N  O  P  E     E    
+ 7       M  A  Y  A  S 
+Solution 81
+   1  2  3  4  5  6  7 
+ 1    Q     A  P  T    
+ 2 S  U  N  S     W    
+ 3 H  E  A  P     O  H 
+ 4 O     M     W     I 
+ 5 W        S  K  Y    
+ 6 N  A  P  E     E    
+ 7       M  A  D  A  M 
+Solution 82
+   1  2  3  4  5  6  7 
+ 1    Q     A  F  T    
+ 2 S  U  N  S     H    
+ 3 H  E  A  P     O  H 
+ 4 E     P     O     O 
+ 5 E        S  K  Y    
+ 6 N  A  P  E     E    
+ 7       M  A  D  A  M 
+Solution 83
+   1  2  3  4  5  6  7 
+ 1    H     A  C  T    
+ 2 S  U  N  S     O    
+ 3 H  E  A  P     O  H 
+ 4 E     P     O     O 
+ 5 W        S  K  Y    
+ 6 N  O  P  E     E    
+ 7       M  A  M  A  S 
+Solution 84
+   1  2  3  4  5  6  7 
+ 1    D     A  C  T    
+ 2 S  U  N  S     A    
+ 3 H  E  A  P     O  H 
+ 4 A     B     W     R 
+ 5 W        S  K  Y    
+ 6 N  O  P  E     E    
+ 7       M  A  N  A  S 
+Solution 85
+   1  2  3  4  5  6  7 
+ 1    H     A  N  T    
+ 2 S  U  N  S     W    
+ 3 H  E  A  P     O  H 
+ 4 A     N     W     O 
+ 5 W        S  K  Y    
+ 6 N  O  P  E     E    
+ 7       M  A  L  A  Y 
+Solution 86
+   1  2  3  4  5  6  7 
+ 1    S     A  P  T    
+ 2 S  U  N  S     W    
+ 3 H  E  A  P     O  H 
+ 4 E     B     O     A 
+ 5 E        S  K  Y    
+ 6 N  O  P  E     E    
+ 7       M  A  C  A  W 
+Solution 87
+   1  2  3  4  5  6  7 
+ 1    Q     A  R  T    
+ 2 S  U  N  S     A    
+ 3 H  E  A  P     O  H 
+ 4 A     G     O     O 
+ 5 W        S  K  Y    
+ 6 N  A  P  E     E    
+ 7       M  A  M  A  S 
+Solution 88
+   1  2  3  4  5  6  7 
+ 1    C     A  C  T    
+ 2 S  U  N  S     O    
+ 3 H  E  A  P     O  H 
+ 4 E     G     W     P 
+ 5 E        S  K  Y    
+ 6 N  O  P  E     E    
+ 7       M  A  D  A  M 
+Solution 89
+   1  2  3  4  5  6  7 
+ 1    Q     A  F  T    
+ 2 S  U  N  S     O    
+ 3 H  E  A  P     O  H 
+ 4 O     B     W     R 
+ 5 R        S  K  Y    
+ 6 N  O  P  E     E    
+ 7       M  A  D  A  M 
+Solution 90
+   1  2  3  4  5  6  7 
+ 1    R     A  L  T    
+ 2 S  U  N  S     W    
+ 3 H  E  A  P     O  H 
+ 4 E     Y     O     I 
+ 5 E        S  K  Y    
+ 6 N  O  P  E     E    
+ 7       M  A  C  A  W 
+Solution 91
+   1  2  3  4  5  6  7 
+ 1    R     A  C  T    
+ 2 S  U  N  S     A    
+ 3 H  E  A  P     O  H 
+ 4 A     P     W     A 
+ 5 W        S  K  Y    
+ 6 N  A  P  E     E    
+ 7       M  A  Y  A  N 
+Solution 92
+   1  2  3  4  5  6  7 
+ 1    S     A  R  T    
+ 2 S  U  N  S     H    
+ 3 H  E  A  P     O  H 
+ 4 O     M     W     P 
+ 5 R        S  K  Y    
+ 6 N  O  P  E     E    
+ 7       M  A  L  A  Y 
+Solution 93
+   1  2  3  4  5  6  7 
+ 1    Q     A  P  T    
+ 2 S  U  N  S     A    
+ 3 H  E  A  P     O  H 
+ 4 O     Y     W     P 
+ 5 R        S  K  Y    
+ 6 N  A  P  E     E    
+ 7       M  A  N  A  S 
+Solution 94
+   1  2  3  4  5  6  7 
+ 1    H     A  P  T    
+ 2 S  U  N  S     H    
+ 3 H  E  A  P     O  H 
+ 4 O     N     O     P 
+ 5 W        S  K  Y    
+ 6 N  O  P  E     E    
+ 7       M  A  N  A  S 
+Solution 95
+   1  2  3  4  5  6  7 
+ 1    D     A  B  T    
+ 2 S  U  N  S     O    
+ 3 H  E  A  P     O  H 
+ 4 O     E     O     R 
+ 5 W        S  K  Y    
+ 6 N  O  P  E     E    
+ 7       M  A  Y  A  S 
+Solution 96
+   1  2  3  4  5  6  7 
+ 1    C     A  N  T    
+ 2 S  U  N  S     W    
+ 3 H  E  A  P     O  H 
+ 4 O     Y     O     I 
+ 5 W        S  K  Y    
+ 6 N  O  P  E     E    
+ 7       M  A  M  A  S 
+Solution 97
+   1  2  3  4  5  6  7 
+ 1    S     A  C  T    
+ 2 S  U  N  S     W    
+ 3 H  E  A  P     O  H 
+ 4 E     P     W     O 
+ 5 W        S  K  Y    
+ 6 N  A  P  E     E    
+ 7       M  A  M  A  S 
+Solution 98
+   1  2  3  4  5  6  7 
+ 1    C     A  F  T    
+ 2 S  U  N  S     H    
+ 3 H  E  A  P     O  H 
+ 4 A     M     O     O 
+ 5 W        S  K  Y    
+ 6 N  A  P  E     E    
+ 7       M  A  N  A  S 
+Solution 99
+   1  2  3  4  5  6  7 
+ 1    D     A  F  T    
+ 2 S  U  N  S     A    
+ 3 H  E  A  P     O  H 
+ 4 E     Y     O     A 
+ 5 W        S  K  Y    
+ 6 N  A  P  E     E    
+ 7       M  A  Y  A  N 
+Solution 100
+   1  2  3  4  5  6  7 
+ 1    Q     A  L  T    
+ 2 S  U  N  S     H    
+ 3 H  E  A  P     O  H 
+ 4 O     N     W     A 
+ 5 R        S  K  Y    
+ 6 N  O  P  E     E    
+ 7       M  A  Y  A  S 
+21.4723434448

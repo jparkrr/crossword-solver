@@ -1,0 +1,248 @@
+Solution 1
+   1  2  3  4  5  6  7  8  9  10
+ 1 B  E  A  U  T  I  F  I  E  R 
+ 2       S              D     E 
+ 3       C              S     C 
+ 4    K  E  M  P  T           O 
+ 5       N     L     H  A  R  M 
+ 6       D     Y              P 
+ 7             I  T  S     D  O 
+ 8    B  U  R  N  O  O  S  E  S 
+ 9    O        G        T     I 
+10    R  A  M           U     N 
+11    N           D  E  B  U  G 
+Solution 2
+   1  2  3  4  5  6  7  8  9  10
+ 1 C  L  A  S  S  I  F  I  E  R 
+ 2       L              C     E 
+ 3       B              E     C 
+ 4    K  E  M  P  T           O 
+ 5       D     U     A  R  U  M 
+ 6       O     R              P 
+ 7             I  T  S     D  O 
+ 8    B  U  R  N  O  O  S  E  S 
+ 9    A        S        W     I 
+10    R  E  B           A     N 
+11    D           D  E  B  U  G 
+Solution 3
+   1  2  3  4  5  6  7  8  9  10
+ 1 H  E  A  D  A  C  H  I  E  R 
+ 2       N              R     E 
+ 3       D              S     C 
+ 4    J  E  E  P  S           O 
+ 5       A     O     R  E  A  M 
+ 6       N     R              P 
+ 7             I  T  S     D  O 
+ 8    B  U  R  N  O  O  S  E  S 
+ 9    E        G        E     I 
+10    R  E  T           R     N 
+11    G           D  E  B  U  G 
+Solution 4
+   1  2  3  4  5  6  7  8  9  10
+ 1 H  E  A  D  A  C  H  I  E  R 
+ 2       B              R     E 
+ 3       S              E     C 
+ 4    K  E  L  P  S           O 
+ 5       N     A     F  I  L  M 
+ 6       T     R              P 
+ 7             I  T  S     D  O 
+ 8    B  U  R  N  O  O  S  E  S 
+ 9    U        G        T     I 
+10    R  A  Y           A     N 
+11    P           D  E  B  U  G 
+Solution 5
+   1  2  3  4  5  6  7  8  9  10
+ 1 H  E  A  D  A  C  H  I  E  R 
+ 2       D              T     E 
+ 3       H              S     C 
+ 4    W  E  E  P  S           O 
+ 5       R     I     Q  U  E  M 
+ 6       E     E              P 
+ 7             I  T  S     D  O 
+ 8    B  U  R  N  O  O  S  E  S 
+ 9    U        G        W     I 
+10    R  E  P           O     N 
+11    Y           D  E  B  U  G 
+Solution 6
+   1  2  3  4  5  6  7  8  9  10
+ 1 B  E  A  U  T  I  F  I  E  R 
+ 2       I              N     E 
+ 3       M              C     C 
+ 4    S  E  E  P  S           O 
+ 5       R     E     I  T  E  M 
+ 6       S     K              P 
+ 7             I  T  S     D  O 
+ 8    B  U  R  N  O  O  S  E  S 
+ 9    U        G        N     I 
+10    R  E  F           U     N 
+11    L           D  E  B  U  G 
+Solution 7
+   1  2  3  4  5  6  7  8  9  10
+ 1 D  R  A  U  G  H  T  I  E  R 
+ 2       T              N     E 
+ 3       H              C     C 
+ 4    R  E  A  P  S           O 
+ 5       N     A     R  O  O  M 
+ 6       S     G              P 
+ 7             I  T  S     D  O 
+ 8    B  U  R  N  O  O  S  E  S 
+ 9    A        G        W     I 
+10    R  A  W           A     N 
+11    F           D  E  B  U  G 
+Solution 8
+   1  2  3  4  5  6  7  8  9  10
+ 1 P  E  A  C  O  C  K  I  E  R 
+ 2       D              V     E 
+ 3       H              Y     C 
+ 4    H  E  A  P  S           O 
+ 5       R     O     G  L  O  M 
+ 6       E     R              P 
+ 7             I  T  S     D  O 
+ 8    B  U  R  N  O  O  S  E  S 
+ 9    U        G        C     I 
+10    R  E  C           A     N 
+11    L           D  E  B  U  G 
+Solution 9
+   1  2  3  4  5  6  7  8  9  10
+ 1 F  E  A  T  H  E  R  I  E  R 
+ 2       G              B     E 
+ 3       L              M     C 
+ 4    H  E  M  P  Y           O 
+ 5       T     R     S  L  U  M 
+ 6       S     Y              P 
+ 7             I  T  S     D  O 
+ 8    B  U  R  N  O  O  S  E  S 
+ 9    E        G        W     I 
+10    R  O  E           A     N 
+11    G           D  E  B  U  G 
+Solution 10
+   1  2  3  4  5  6  7  8  9  10
+ 1 P  E  A  C  O  C  K  I  E  R 
+ 2       N              V     E 
+ 3       G              Y     C 
+ 4    J  E  E  P  S           O 
+ 5       R     R     C  A  L  M 
+ 6       S     Y              P 
+ 7             I  T  S     D  O 
+ 8    B  U  R  N  O  O  S  E  S 
+ 9    U        G        C     I 
+10    R  U  M           A     N 
+11    N           D  E  B  U  G 
+Solution 11
+   1  2  3  4  5  6  7  8  9  10
+ 1 D  R  A  U  G  H  T  I  E  R 
+ 2       U              N     E 
+ 3       G              K     C 
+ 4    K  E  E  P  S           O 
+ 5       R     L     E  X  A  M 
+ 6       S     A              P 
+ 7             I  T  S     D  O 
+ 8    B  U  R  N  O  O  S  E  S 
+ 9    A        S        N     I 
+10    R  O  E           O     N 
+11    N           D  E  B  U  G 
+Solution 12
+   1  2  3  4  5  6  7  8  9  10
+ 1 B  E  A  U  T  I  F  I  E  R 
+ 2       T              Q     E 
+ 3       T              S     C 
+ 4    L  E  A  P  S           O 
+ 5       N     A     B  E  R  M 
+ 6       D     L              P 
+ 7             I  T  S     D  O 
+ 8    B  U  R  N  O  O  S  E  S 
+ 9    I        G        N     I 
+10    R  E  D           O     N 
+11    D           D  E  B  U  G 
+Solution 13
+   1  2  3  4  5  6  7  8  9  10
+ 1 C  L  A  S  S  I  F  I  E  R 
+ 2       N              L     E 
+ 3       T              K     C 
+ 4    S  E  E  P  Y           O 
+ 5       E     E     L  O  A  M 
+ 6       D     K              P 
+ 7             I  T  S     D  O 
+ 8    B  U  R  N  O  O  S  E  S 
+ 9    U        G        C     I 
+10    R  A  G           A     N 
+11    S           D  E  B  U  G 
+Solution 14
+   1  2  3  4  5  6  7  8  9  10
+ 1 D  R  A  U  G  H  T  I  E  R 
+ 2       G              D     E 
+ 3       L              S     C 
+ 4    L  E  A  P  S           O 
+ 5       A     A     W  H  O  M 
+ 6       M     T              P 
+ 7             I  T  S     D  O 
+ 8    B  U  R  N  O  O  S  E  S 
+ 9    A        A        N     I 
+10    R  A  D           O     N 
+11    F           D  E  B  U  G 
+Solution 15
+   1  2  3  4  5  6  7  8  9  10
+ 1 B  E  A  U  T  I  F  I  E  R 
+ 2       R              N     E 
+ 3       R              K     C 
+ 4    R  E  A  P  S           O 
+ 5       A     A     M  A  I  M 
+ 6       R     L              P 
+ 7             I  T  S     D  O 
+ 8    B  U  R  N  O  O  S  E  S 
+ 9    A        G        W     I 
+10    R  A  Y           O     N 
+11    S           D  E  B  U  G 
+Solution 16
+   1  2  3  4  5  6  7  8  9  10
+ 1 C  L  A  S  S  I  F  I  E  R 
+ 2       T              C     E 
+ 3       T              Y     C 
+ 4    D  E  E  P  S           O 
+ 5       N     A     F  O  R  M 
+ 6       D     L              P 
+ 7             I  T  S     D  O 
+ 8    B  U  R  N  O  O  S  E  S 
+ 9    E        G        L     I 
+10    R  U  G           A     N 
+11    G           D  E  B  U  G 
+Solution 17
+   1  2  3  4  5  6  7  8  9  10
+ 1 P  E  A  C  O  C  K  I  E  R 
+ 2       G              S     E 
+ 3       R              M     C 
+ 4    D  E  E  P  S           O 
+ 5       E     L     F  A  R  M 
+ 6       S     Y              P 
+ 7             I  T  S     D  O 
+ 8    B  U  R  N  O  O  S  E  S 
+ 9    A        G        L     I 
+10    R  O  W           A     N 
+11    K           D  E  B  U  G 
+Solution 18
+   1  2  3  4  5  6  7  8  9  10
+ 1 H  E  A  D  A  C  H  I  E  R 
+ 2       L              N     E 
+ 3       D              T     C 
+ 4    T  E  M  P  I           O 
+ 5       R     O     C  O  R  M 
+ 6       S     X              P 
+ 7             I  T  S     D  O 
+ 8    B  U  R  N  O  O  S  E  S 
+ 9    D        G        N     I 
+10    R  A  H           U     N 
+11    M           D  E  B  U  G 
+Solution 19
+   1  2  3  4  5  6  7  8  9  10
+ 1 H  E  A  V  E  N  L  I  E  R 
+ 2       T              O     E 
+ 3       W              U     C 
+ 4    S  E  E  P  Y           O 
+ 5       E     A     C  H  A  M 
+ 6       N     C              P 
+ 7             I  T  S     D  O 
+ 8    B  U  R  N  O  O  S  E  S 
+ 9    U        G        T     I 
+10    R  O  E           A     N 
+11    L           D  E  B  U  G 
+31.5577390194

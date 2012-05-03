@@ -1,0 +1,1001 @@
+Solution 1
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  E  R  S  A       
+ 2          G     A           S       
+ 3          L     I  L  L     K       
+ 4    D  R  O  O  L     U     S       
+ 5    A     S           G             
+ 6 I  S  M  S           S             
+ 7    H     E                         
+ 8          D  R  I  L  L  I  N  G  S 
+Solution 2
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  O  I  L  A       
+ 2          G     E           K       
+ 3          R     I  L  L     I       
+ 4    D  R  O  L  L     O     N       
+ 5    O     S           C             
+ 6 A  S  K  S           O             
+ 7    E     E                         
+ 8          D  E  R  O  G  A  T  E  D 
+Solution 3
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  O  L  T  A       
+ 2          C     E           X       
+ 3          R     I  L  L     E       
+ 4    D  R  O  O  L     I     S       
+ 5    I     S           E             
+ 6 I  S  I  S           S             
+ 7    C     E                         
+ 8          D  I  S  C  A  R  D  E  D 
+Solution 4
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  O  D  K  A       
+ 2          C     A           R       
+ 3          R     I  L  L     U       
+ 4    D  R  O  L  L     I     M       
+ 5    I     S           N             
+ 6 I  S  I  S           G             
+ 7    K     E                         
+ 8          D  I  S  R  O  B  E  R  S 
+Solution 5
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  U  L  V  A       
+ 2          B     E           X       
+ 3          L     I  L  L     O       
+ 4    D  R  O  O  L     E     N       
+ 5    I     U           C             
+ 6 I  S  M  S           T             
+ 7    C     E                         
+ 8          D  E  G  A  U  S  S  E  D 
+Solution 6
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  O  L  T  A       
+ 2          G     E           B       
+ 3          R     I  L  L     E       
+ 4    D  R  O  O  L     A     T       
+ 5    E     S           I             
+ 6 I  S  I  S           D             
+ 7    K     E                         
+ 8          D  E  M  U  R  R  I  N  G 
+Solution 7
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  A  L  V  A       
+ 2          F     A           R       
+ 3          L     I  L  L     C       
+ 4    D  R  O  L  L     E     H       
+ 5    O     S           A             
+ 6 U  S  E  S           L             
+ 7    S     E                         
+ 8          D  E  D  U  C  T  I  O  N 
+Solution 8
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  O  I  L  A       
+ 2          D     A           I       
+ 3          R     I  L  L     M       
+ 4    D  R  O  O  L     U     S       
+ 5    O     W           N             
+ 6 I  S  I  S           E             
+ 7    T     E                         
+ 8          D  E  F  L  A  T  O  R  S 
+Solution 9
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  U  L  V  A       
+ 2          B     A           M       
+ 3          R     I  L  L     A       
+ 4    D  R  O  L  L     A     H       
+ 5    I     W           T             
+ 6 A  S  K  S           E             
+ 7    K     E                         
+ 8          D  I  V  E  R  T  E  R  S 
+Solution 10
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  A  C  U  A       
+ 2          C     E           I       
+ 3          R     I  L  L     L       
+ 4    D  R  O  L  L     O     S       
+ 5    U     S           T             
+ 6 E  S  E  S           S             
+ 7    T     E                         
+ 8          D  I  A  G  R  A  P  H  S 
+Solution 11
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  E  R  S  A       
+ 2          F     E           F       
+ 3          L     I  L  L     R       
+ 4    D  R  O  O  L     I     O       
+ 5    O     S           C             
+ 6 U  S  E  S           K             
+ 7    E     E                         
+ 8          D  E  R  I  S  I  B  L  E 
+Solution 12
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  I  S  T  A       
+ 2          S     A           I       
+ 3          P     I  L  L     D       
+ 4    D  R  O  L  L     O     E       
+ 5    O     U           N             
+ 6 A  S  K  S           G             
+ 7    T     E                         
+ 8          D  U  O  D  E  N  U  M  S 
+Solution 13
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  O  L  T  A       
+ 2          A     A           R       
+ 3          R     I  L  L     A       
+ 4    D  R  O  L  L     I     B       
+ 5    O     U           A             
+ 6 A  S  P  S           R             
+ 7    E     E                         
+ 8          D  E  A  N  S  H  I  P  S 
+Solution 14
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  U  L  V  A       
+ 2          A     E           R       
+ 3          R     I  L  L     T       
+ 4    D  R  O  L  L     O     Y       
+ 5    O     U           R             
+ 6 I  S  I  S           D             
+ 7    E     E                         
+ 8          D  E  C  A  D  E  N  T  S 
+Solution 15
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  E  R  S  A       
+ 2          B     E           I       
+ 3          L     I  L  L     R       
+ 4    D  R  O  O  L     O     Y       
+ 5    E     W           N             
+ 6 I  S  M  S           E             
+ 7    K     E                         
+ 8          D  O  W  N  L  O  A  D  S 
+Solution 16
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  O  L  T  A       
+ 2          G     E           N       
+ 3          R     I  L  L     O       
+ 4    D  R  O  O  L     E     N       
+ 5    I     U           N             
+ 6 A  S  P  S           D             
+ 7    H     E                         
+ 8          D  O  C  I  M  A  S  I  A 
+Solution 17
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  I  L  L  A       
+ 2          D     E           N       
+ 3          R     I  L  L     T       
+ 4    D  R  O  L  L     O     S       
+ 5    O     W           W             
+ 6 E  S  E  S           S             
+ 7    S     E                         
+ 8          D  E  M  O  U  N  T  E  D 
+Solution 18
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  A  L  V  A       
+ 2          A     E           W       
+ 3          R     I  L  L     N       
+ 4    D  R  O  O  L     A     S       
+ 5    A     U           O             
+ 6 A  S  P  S           S             
+ 7    H     E                         
+ 8          D  R  O  S  S  I  E  S  T 
+Solution 19
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  A  L  V  A       
+ 2          B     A           R       
+ 3          L     I  L  L     C       
+ 4    D  R  O  L  L     E     O       
+ 5    A     U           N             
+ 6 U  S  E  S           T             
+ 7    H     E                         
+ 8          D  O  U  B  L  O  O  N  S 
+Solution 20
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  O  L  G  A       
+ 2          A     A           E       
+ 3          R     I  L  L     R       
+ 4    D  R  O  L  L     E     Y       
+ 5    A     U           S             
+ 6 A  S  P  S           T             
+ 7    H     E                         
+ 8          D  E  S  T  I  N  I  N  G 
+Solution 21
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  I  N  C  A       
+ 2          G     A           V       
+ 3          L     I  L  L     E       
+ 4    D  R  O  L  L     O     S       
+ 5    U     S           A             
+ 6 U  S  E  S           N             
+ 7    T     E                         
+ 8          D  I  V  I  D  A  B  L  E 
+Solution 22
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  O  I  L  A       
+ 2          B     A           D       
+ 3          L     I  L  L     V       
+ 4    D  R  O  L  L     I     T       
+ 5    O     W           T             
+ 6 A  S  K  S           E             
+ 7    E     E                         
+ 8          D  E  F  E  N  S  I  V  E 
+Solution 23
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  O  I  L  A       
+ 2          B     A           M       
+ 3          R     I  L  L     E       
+ 4    D  R  O  O  L     I     X       
+ 5    I     W           N             
+ 6 U  S  E  S           K             
+ 7    H     E                         
+ 8          D  I  P  H  T  H  O  N  G 
+Solution 24
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  E  R  S  A       
+ 2          B     E           R       
+ 3          L     I  L  L     M       
+ 4    D  R  O  L  L     O     S       
+ 5    O     U           O             
+ 6 A  S  K  S           M             
+ 7    E     E                         
+ 8          D  E  S  P  O  N  D  E  D 
+Solution 25
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  I  L  L  A       
+ 2          B     A           D       
+ 3          L     I  L  L     D       
+ 4    D  R  O  O  L     U     S       
+ 5    I     W           L             
+ 6 I  S  M  S           U             
+ 7    C     E                         
+ 8          D  E  A  C  O  N  E  S  S 
+Solution 26
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  O  L  T  A       
+ 2          B     E           B       
+ 3          L     I  L  L     B       
+ 4    D  R  O  L  L     E     E       
+ 5    O     U           A             
+ 6 U  S  E  S           D             
+ 7    T     E                         
+ 8          D  I  A  T  O  M  I  T  E 
+Solution 27
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  U  L  V  A       
+ 2          C     A           B       
+ 3          R     I  L  L     U       
+ 4    D  R  O  O  L     I     T       
+ 5    O     S           R             
+ 6 A  S  P  S           A             
+ 7    S     E                         
+ 8          D  E  M  E  A  N  I  N  G 
+Solution 28
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  U  L  V  A       
+ 2          A     A           I       
+ 3          R     I  L  L     L       
+ 4    D  R  O  L  L     Y     S       
+ 5    A     U           E             
+ 6 I  S  M  S           S             
+ 7    H     E                         
+ 8          D  R  E  G  G  I  E  S  T 
+Solution 29
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  I  O  L  A       
+ 2          B     A           N       
+ 3          L     I  L  L     N       
+ 4    D  R  O  O  L     A     E       
+ 5    I     U           I             
+ 6 I  S  I  S           D             
+ 7    H     E                         
+ 8          D  A  N  D  Y  I  S  M  S 
+Solution 30
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  E  R  S  A       
+ 2          G     E           N       
+ 3          L     I  L  L     T       
+ 4    D  R  O  O  L     O     I       
+ 5    U     S           O             
+ 6 A  S  P  S           P             
+ 7    T     E                         
+ 8          D  R  O  O  P  I  E  S  T 
+Solution 31
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  O  L  G  A       
+ 2          D     E           N       
+ 3          R     I  L  L     K       
+ 4    D  R  O  O  L     U     H       
+ 5    O     W           C             
+ 6 E  S  E  S           K             
+ 7    T     E                         
+ 8          D  E  C  A  L  C  I  F  Y 
+Solution 32
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  O  D  K  A       
+ 2          B     E           W       
+ 3          L     I  L  L     A       
+ 4    D  R  O  O  L     I     Y       
+ 5    O     U           F             
+ 6 A  S  K  S           E             
+ 7    S     E                         
+ 8          D  E  C  A  L  C  I  F  Y 
+Solution 33
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  O  D  K  A       
+ 2          F     A           Y       
+ 3          L     I  L  L     E       
+ 4    D  R  O  O  L     O     S       
+ 5    E     S           F             
+ 6 A  S  K  S           T             
+ 7    K     E                         
+ 8          D  I  S  T  R  U  S  T  S 
+Solution 34
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  A  L  V  A       
+ 2          G     E           C       
+ 3          L     I  L  L     M       
+ 4    D  R  O  L  L     E     E       
+ 5    O     S           E             
+ 6 U  S  E  S           S             
+ 7    E     E                         
+ 8          D  E  F  L  E  C  T  E  D 
+Solution 35
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  I  L  L  A       
+ 2          F     A           C       
+ 3          L     I  L  L     T       
+ 4    D  R  O  L  L     I     S       
+ 5    A     S           D             
+ 6 A  S  K  S           O             
+ 7    H     E                         
+ 8          D  O  W  N  P  O  U  R  S 
+Solution 36
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  U  L  V  A       
+ 2          S     A           G       
+ 3          P     I  L  L     O       
+ 4    D  R  O  O  L     I     G       
+ 5    U     U           N             
+ 6 I  S  I  S           S             
+ 7    T     E                         
+ 8          D  I  A  G  N  O  S  I  S 
+Solution 37
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  A  L  V  A       
+ 2          S     E           D       
+ 3          P     I  L  L     I       
+ 4    D  R  O  O  L     O     T       
+ 5    U     U           U             
+ 6 U  S  E  S           R             
+ 7    K     E                         
+ 8          D  E  B  R  I  E  F  E  D 
+Solution 38
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  O  L  G  A       
+ 2          B     E           U       
+ 3          R     I  L  L     L       
+ 4    D  R  O  L  L     I     D       
+ 5    O     W           O             
+ 6 A  S  P  S           N             
+ 7    S     E                         
+ 8          D  E  F  I  N  A  B  L  E 
+Solution 39
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  I  L  L  A       
+ 2          B     E           C       
+ 3          L     I  L  L     I       
+ 4    D  R  O  O  L     U     D       
+ 5    U     W           B             
+ 6 U  S  E  S           E             
+ 7    T     E                         
+ 8          D  U  E  T  T  I  S  T  S 
+Solution 40
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  I  N  C  A       
+ 2          B     E           I       
+ 3          L     I  L  L     R       
+ 4    D  R  O  L  L     U     Y       
+ 5    U     U           B             
+ 6 A  S  K  S           E             
+ 7    K     E                         
+ 8          D  Y  N  A  M  I  S  T  S 
+Solution 41
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  O  L  G  A       
+ 2          B     E           X       
+ 3          L     I  L  L     I       
+ 4    D  R  O  O  L     O     S       
+ 5    O     W           G             
+ 6 I  S  I  S           Y             
+ 7    T     E                         
+ 8          D  E  B  A  R  K  I  N  G 
+Solution 42
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  A  C  U  A       
+ 2          G     E           N       
+ 3          L     I  L  L     N       
+ 4    D  R  O  L  L     I     E       
+ 5    A     S           E             
+ 6 A  S  K  S           D             
+ 7    H     E                         
+ 8          D  R  O  W  S  I  E  S  T 
+Solution 43
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  O  I  L  A       
+ 2          D     A           N       
+ 3          R     I  L  L     K       
+ 4    D  R  O  O  L     A     H       
+ 5    O     W           M             
+ 6 E  S  E  S           P             
+ 7    T     E                         
+ 8          D  U  C  K  T  A  I  L  S 
+Solution 44
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  I  S  T  A       
+ 2          G     A           R       
+ 3          L     I  L  L     K       
+ 4    D  R  O  L  L     A     S       
+ 5    U     S           O             
+ 6 A  S  K  S           S             
+ 7    K     E                         
+ 8          D  I  S  O  R  I  E  N  T 
+Solution 45
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  O  I  L  A       
+ 2          G     E           E       
+ 3          R     I  L  L     R       
+ 4    D  R  O  L  L     O     Y       
+ 5    O     U           U             
+ 6 A  S  K  S           D             
+ 7    S     E                         
+ 8          D  E  P  I  L  A  T  E  D 
+Solution 46
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  I  L  L  A       
+ 2          G     A           S       
+ 3          R     I  L  L     S       
+ 4    D  R  O  O  L     O     N       
+ 5    I     S           G             
+ 6 U  S  E  S           E             
+ 7    C     E                         
+ 8          D  E  P  L  E  T  I  O  N 
+Solution 47
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  O  D  K  A       
+ 2          C     E           U       
+ 3          R     I  L  L     L       
+ 4    D  R  O  O  L     A     D       
+ 5    O     S           C             
+ 6 I  S  M  S           K             
+ 7    T     E                         
+ 8          D  I  S  T  U  R  B  E  R 
+Solution 48
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  E  R  S  A       
+ 2          S     A           W       
+ 3          P     I  L  L     R       
+ 4    D  R  O  O  L     U     Y       
+ 5    I     U           N             
+ 6 A  S  K  S           A             
+ 7    C     E                         
+ 8          D  I  V  U  L  G  I  N  G 
+Solution 49
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  I  N  C  A       
+ 2          A     E           L       
+ 3          R     I  L  L     F       
+ 4    D  R  O  O  L     O     A       
+ 5    O     U           S             
+ 6 U  S  E  S           T             
+ 7    T     E                         
+ 8          D  E  P  U  T  I  Z  E  S 
+Solution 50
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  O  I  L  A       
+ 2          D     E           R       
+ 3          R     I  L  L     M       
+ 4    D  R  O  O  L     E     S       
+ 5    O     W           W             
+ 6 A  S  P  S           D             
+ 7    S     E                         
+ 8          D  A  M  S  E  L  F  L  Y 
+Solution 51
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  I  L  L  A       
+ 2          C     E           R       
+ 3          R     I  L  L     K       
+ 4    D  R  O  L  L     E     S       
+ 5    I     S           T             
+ 6 U  S  E  S           S             
+ 7    H     E                         
+ 8          D  A  N  E  G  E  L  D  S 
+Solution 52
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  I  L  L  A       
+ 2          B     E           T       
+ 3          L     I  L  L     T       
+ 4    D  R  O  L  L     I     Y       
+ 5    I     W           T             
+ 6 U  S  E  S           S             
+ 7    H     E                         
+ 8          D  E  T  E  R  G  E  N  T 
+Solution 53
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  A  L  V  A       
+ 2          B     A           C       
+ 3          L     I  L  L     I       
+ 4    D  R  O  L  L     O     D       
+ 5    O     U           A             
+ 6 I  S  M  S           N             
+ 7    T     E                         
+ 8          D  E  F  E  R  E  N  C  E 
+Solution 54
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  I  O  L  A       
+ 2          D     A           X       
+ 3          R     I  L  L     E       
+ 4    D  R  O  L  L     I     S       
+ 5    U     W           M             
+ 6 U  S  E  S           N             
+ 7    K     E                         
+ 8          D  E  L  I  R  I  U  M  S 
+Solution 55
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  I  L  L  A       
+ 2          C     E           R       
+ 3          R     I  L  L     K       
+ 4    D  R  O  L  L     E     S       
+ 5    I     S           A             
+ 6 A  S  K  S           F             
+ 7    H     E                         
+ 8          D  I  S  H  T  O  W  E  L 
+Solution 56
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  O  I  L  A       
+ 2          G     A           L       
+ 3          R     I  L  L     A       
+ 4    D  R  O  O  L     I     N       
+ 5    O     S           E             
+ 6 E  S  E  S           S             
+ 7    T     E                         
+ 8          D  E  R  O  G  A  T  E  S 
+Solution 57
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  I  O  L  A       
+ 2          A     A           P       
+ 3          R     I  L  L     S       
+ 4    D  R  O  O  L     I     E       
+ 5    U     U           E             
+ 6 E  S  E  S           R             
+ 7    K     E                         
+ 8          D  I  S  C  L  A  I  M  S 
+Solution 58
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  I  N  C  A       
+ 2          A     A           L       
+ 3          R     I  L  L     L       
+ 4    D  R  O  O  L     I     Y       
+ 5    A     U           N             
+ 6 I  S  M  S           K             
+ 7    H     E                         
+ 8          D  I  S  S  E  C  T  E  D 
+Solution 59
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  A  C  U  A       
+ 2          B     A           L       
+ 3          L     I  L  L     A       
+ 4    D  R  O  O  L     I     N       
+ 5    I     W           E             
+ 6 A  S  P  S           D             
+ 7    K     E                         
+ 8          D  E  S  I  C  C  A  N  T 
+Solution 60
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  E  R  S  A       
+ 2          G     E           L       
+ 3          L     I  L  L     S       
+ 4    D  R  O  L  L     I     O       
+ 5    I     S           E             
+ 6 E  S  E  S           D             
+ 7    K     E                         
+ 8          D  E  S  I  S  T  I  N  G 
+Solution 61
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  I  O  L  A       
+ 2          A     E           P       
+ 3          R     I  L  L     E       
+ 4    D  R  O  L  L     A     X       
+ 5    I     U           N             
+ 6 A  S  P  S           E             
+ 7    K     E                         
+ 8          D  O  W  N  S  W  I  N  G 
+Solution 62
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  O  I  L  A       
+ 2          C     A           N       
+ 3          R     I  L  L     U       
+ 4    D  R  O  O  L     A     S       
+ 5    O     S           V             
+ 6 A  S  K  S           E             
+ 7    E     E                         
+ 8          D  I  P  H  T  H  O  N  G 
+Solution 63
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  O  L  T  A       
+ 2          F     A           I       
+ 3          L     I  L  L     D       
+ 4    D  R  O  O  L     I     E       
+ 5    I     S           T             
+ 6 E  S  E  S           E             
+ 7    K     E                         
+ 8          D  I  S  H  C  L  O  T  H 
+Solution 64
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  U  L  V  A       
+ 2          G     A           M       
+ 3          L     I  L  L     O       
+ 4    D  R  O  O  L     U     K       
+ 5    I     S           G             
+ 6 U  S  E  S           E             
+ 7    K     E                         
+ 8          D  E  B  O  U  C  H  E  S 
+Solution 65
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  A  C  U  A       
+ 2          G     E           L       
+ 3          L     I  L  L     F       
+ 4    D  R  O  L  L     A     A       
+ 5    I     S           D             
+ 6 A  S  P  S           S             
+ 7    K     E                         
+ 8          D  I  S  G  O  R  G  E  D 
+Solution 66
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  I  L  L  A       
+ 2          F     E           R       
+ 3          L     I  L  L     T       
+ 4    D  R  O  L  L     I     Y       
+ 5    A     S           M             
+ 6 A  S  K  S           P             
+ 7    H     E                         
+ 8          D  E  F  O  G  G  I  N  G 
+Solution 67
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  O  L  T  A       
+ 2          C     E           N       
+ 3          R     I  L  L     N       
+ 4    D  R  O  O  L     I     E       
+ 5    I     S           E             
+ 6 E  S  E  S           F             
+ 7    H     E                         
+ 8          D  A  R  N  D  E  S  T  S 
+Solution 68
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  A  C  U  A       
+ 2          D     A           I       
+ 3          R     I  L  L     L       
+ 4    D  R  O  O  L     I     S       
+ 5    E     W           N             
+ 6 I  S  M  S           Y             
+ 7    K     E                         
+ 8          D  A  S  T  A  R  D  L  Y 
+Solution 69
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  O  L  G  A       
+ 2          C     A           L       
+ 3          R     I  L  L     A       
+ 4    D  R  O  L  L     A     R       
+ 5    E     S           V             
+ 6 U  S  E  S           E             
+ 7    K     E                         
+ 8          D  R  U  M  H  E  A  D  S 
+Solution 70
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  O  L  T  A       
+ 2          B     E           N       
+ 3          L     I  L  L     S       
+ 4    D  R  O  O  L     I     I       
+ 5    U     W           M             
+ 6 E  S  E  S           N             
+ 7    T     E                         
+ 8          D  A  Y  D  R  E  A  M  T 
+Solution 71
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  A  L  V  A       
+ 2          D     A           L       
+ 3          R     I  L  L     L       
+ 4    D  R  O  O  L     O     S       
+ 5    U     W           A             
+ 6 I  S  I  S           D             
+ 7    K     E                         
+ 8          D  I  S  H  E  V  E  L  S 
+Solution 72
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  A  L  V  A       
+ 2          G     E           L       
+ 3          R     I  L  L     P       
+ 4    D  R  O  L  L     A     S       
+ 5    A     S           D             
+ 6 I  S  M  S           E             
+ 7    H     E                         
+ 8          D  E  T  E  S  T  I  N  G 
+Solution 73
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  I  S  T  A       
+ 2          F     A           U       
+ 3          L     I  L  L     N       
+ 4    D  R  O  L  L     O     T       
+ 5    I     S           T             
+ 6 A  S  P  S           H             
+ 7    K     E                         
+ 8          D  I  P  L  O  M  A  T  E 
+Solution 74
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  A  L  V  A       
+ 2          B     A           V       
+ 3          L     I  L  L     D       
+ 4    D  R  O  L  L     I     P       
+ 5    A     W           E             
+ 6 I  S  I  S           U             
+ 7    H     E                         
+ 8          D  E  X  T  R  O  S  E  S 
+Solution 75
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  E  R  S  A       
+ 2          F     A           L       
+ 3          L     I  L  L     S       
+ 4    D  R  O  O  L     I     O       
+ 5    O     S           N             
+ 6 I  S  M  S           O             
+ 7    T     E                         
+ 8          D  I  S  R  U  P  T  E  D 
+Solution 76
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  O  L  T  A       
+ 2          C     A           D       
+ 3          R     I  L  L     V       
+ 4    D  R  O  L  L     E     T       
+ 5    O     S           N             
+ 6 U  S  E  S           T             
+ 7    S     E                         
+ 8          D  A  B  B  L  I  N  G  S 
+Solution 77
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  O  L  G  A       
+ 2          B     A           T       
+ 3          R     I  L  L     M       
+ 4    D  R  O  L  L     O     A       
+ 5    O     W           U             
+ 6 U  S  E  S           D             
+ 7    E     E                         
+ 8          D  O  S  I  M  E  T  R  Y 
+Solution 78
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  O  L  G  A       
+ 2          D     E           L       
+ 3          R     I  L  L     U       
+ 4    D  R  O  O  L     O     M       
+ 5    I     W           R             
+ 6 I  S  I  S           N             
+ 7    K     E                         
+ 8          D  A  U  G  H  T  E  R  S 
+Solution 79
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  O  D  K  A       
+ 2          B     A           R       
+ 3          R     I  L  L     I       
+ 4    D  R  O  L  L     O     D       
+ 5    U     W           T             
+ 6 I  S  I  S           H             
+ 7    T     E                         
+ 8          D  E  P  R  E  S  S  O  R 
+Solution 80
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  E  R  S  A       
+ 2          B     E           C       
+ 3          L     I  L  L     E       
+ 4    D  R  O  L  L     A     S       
+ 5    O     U           I             
+ 6 U  S  E  S           N             
+ 7    S     E                         
+ 8          D  R  A  W  B  A  C  K  S 
+Solution 81
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  O  D  K  A       
+ 2          G     E           X       
+ 3          R     I  L  L     E       
+ 4    D  R  O  L  L     O     S       
+ 5    U     S           U             
+ 6 U  S  E  S           P             
+ 7    T     E                         
+ 8          D  A  R  W  I  N  I  S  T 
+Solution 82
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  O  L  T  A       
+ 2          G     E           N       
+ 3          L     I  L  L     A       
+ 4    D  R  O  L  L     U     L       
+ 5    I     S           N             
+ 6 I  S  I  S           K             
+ 7    K     E                         
+ 8          D  I  S  C  H  A  R  G  E 
+Solution 83
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  A  C  U  A       
+ 2          D     E           T       
+ 3          R     I  L  L     O       
+ 4    D  R  O  L  L     I     P       
+ 5    I     W           M             
+ 6 A  S  K  S           B             
+ 7    C     E                         
+ 8          D  I  C  T  A  T  I  N  G 
+Solution 84
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  O  D  K  A       
+ 2          G     A           B       
+ 3          R     I  L  L     E       
+ 4    D  R  O  O  L     U     T       
+ 5    O     S           C             
+ 6 I  S  M  S           K             
+ 7    T     E                         
+ 8          D  W  A  R  F  I  S  M  S 
+Solution 85
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  O  L  T  A       
+ 2          C     E           L       
+ 3          R     I  L  L     A       
+ 4    D  R  O  O  L     O     I       
+ 5    E     S           C             
+ 6 A  S  K  S           I             
+ 7    K     E                         
+ 8          D  I  L  U  T  I  O  N  S 
+Solution 86
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  U  L  V  A       
+ 2          G     A           R       
+ 3          R     I  L  L     A       
+ 4    D  R  O  L  L     I     B       
+ 5    O     U           L             
+ 6 I  S  I  S           T             
+ 7    E     E                         
+ 8          D  E  C  A  N  T  I  N  G 
+Solution 87
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  I  N  C  A       
+ 2          B     E           G       
+ 3          L     I  L  L     I       
+ 4    D  R  O  O  L     E     N       
+ 5    E     U           V             
+ 6 E  S  E  S           O             
+ 7    K     E                         
+ 8          D  R  O  W  S  I  E  S  T 
+Solution 88
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  A  C  U  A       
+ 2          A     E           X       
+ 3          R     I  L  L     L       
+ 4    D  R  O  O  L     E     E       
+ 5    I     U           V             
+ 6 E  S  E  S           A             
+ 7    K     E                         
+ 8          D  E  P  I  C  T  O  R  S 
+Solution 89
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  E  R  S  A       
+ 2          B     E           E       
+ 3          R     I  L  L     O       
+ 4    D  R  O  L  L     O     N       
+ 5    I     W           S             
+ 6 A  S  K  S           E             
+ 7    H     E                         
+ 8          D  I  S  L  O  C  A  T  E 
+Solution 90
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  E  R  S  A       
+ 2          A     E           X       
+ 3          R     I  L  L     E       
+ 4    D  R  O  L  L     I     L       
+ 5    O     U           N             
+ 6 I  S  M  S           Y             
+ 7    T     E                         
+ 8          D  I  S  P  R  O  O  F  S 
+Solution 91
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  I  O  L  A       
+ 2          D     A           M       
+ 3          R     I  L  L     O       
+ 4    D  R  O  O  L     O     K       
+ 5    U     W           V             
+ 6 I  S  I  S           E             
+ 7    K     E                         
+ 8          D  E  V  E  L  O  P  E  D 
+Solution 92
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  O  I  L  A       
+ 2          B     A           W       
+ 3          R     I  L  L     E       
+ 4    D  R  O  L  L     I     S       
+ 5    O     W           E             
+ 6 I  S  M  S           U             
+ 7    E     E                         
+ 8          D  E  F  E  C  A  T  E  S 
+Solution 93
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  O  I  L  A       
+ 2          G     A           L       
+ 3          R     I  L  L     M       
+ 4    D  R  O  L  L     E     S       
+ 5    O     U           A             
+ 6 A  S  K  S           P             
+ 7    E     E                         
+ 8          D  U  B  I  E  T  I  E  S 
+Solution 94
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  O  I  L  A       
+ 2          B     A           L       
+ 3          L     I  L  L     A       
+ 4    D  R  O  O  L     A     N       
+ 5    E     W           I             
+ 6 A  S  P  S           D             
+ 7    K     E                         
+ 8          D  O  O  R  S  T  O  P  S 
+Solution 95
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  O  I  L  A       
+ 2          S     E           X       
+ 3          P     I  L  L     I       
+ 4    D  R  O  O  L     E     S       
+ 5    U     U           O             
+ 6 E  S  E  S           S             
+ 7    T     E                         
+ 8          D  R  A  G  O  O  N  E  D 
+Solution 96
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  I  S  T  A       
+ 2          G     E           N       
+ 3          R     I  L  L     T       
+ 4    D  R  O  L  L     U     S       
+ 5    O     S           N             
+ 6 E  S  E  S           K             
+ 7    E     E                         
+ 8          D  U  L  C  I  M  E  R  S 
+Solution 97
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  O  L  G  A       
+ 2          G     E           X       
+ 3          R     I  L  L     E       
+ 4    D  R  O  L  L     O     S       
+ 5    I     S           C             
+ 6 E  S  E  S           I             
+ 7    K     E                         
+ 8          D  E  C  E  P  T  I  V  E 
+Solution 98
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  O  I  L  A       
+ 2          D     A           L       
+ 3          R     I  L  L     G       
+ 4    D  R  O  L  L     U     A       
+ 5    I     W           C             
+ 6 E  S  E  S           Y             
+ 7    K     E                         
+ 8          D  E  P  A  R  T  U  R  E 
+Solution 99
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  O  D  K  A       
+ 2          G     A           M       
+ 3          R     I  L  L     M       
+ 4    D  R  O  L  L     A     O       
+ 5    O     U           D             
+ 6 E  S  E  S           E             
+ 7    T     E                         
+ 8          D  U  R  A  T  I  O  N  S 
+Solution 100
+   1  2  3  4  5  6  7  8  9  10 11 12
+ 1                V  O  L  G  A       
+ 2          G     A           R       
+ 3          R     I  L  L     I       
+ 4    D  R  O  L  L     A     D       
+ 5    A     U           D             
+ 6 A  S  K  S           Y             
+ 7    H     E                         
+ 8          D  Y  S  P  E  P  T  I  C 
+6.22682261467

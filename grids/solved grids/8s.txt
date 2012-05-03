@@ -1,0 +1,727 @@
+Solution 1
+   1  2  3  4  5  6  7 
+ 1    T  A  L  E       
+ 2    E              D 
+ 3 G  N  U     P     A 
+ 4 O        C  A  N  T 
+ 5 T     G  A  T     E 
+ 6 H  E  R  R     U    
+ 7 S     O  P  E  N  S 
+ 8    A  V  E     T    
+ 9       E     R  O  W 
+Solution 2
+   1  2  3  4  5  6  7 
+ 1    T  R  E  K       
+ 2    E              V 
+ 3 G  N  U     S     E 
+ 4 U        C  A  S  T 
+ 5 S     G  A  T     O 
+ 6 H  E  R  R     I    
+ 7 Y     O  P  E  N  S 
+ 8    E  V  E     F    
+ 9       E     S  O  T 
+Solution 3
+   1  2  3  4  5  6  7 
+ 1    T  O  P  S       
+ 2    I              G 
+ 3 G  N  U     V     A 
+ 4 U        C  A  R  T 
+ 5 S     G  A  T     S 
+ 6 H  E  R  R     U    
+ 7 Y     O  P  I  N  E 
+ 8    E  V  E     D    
+ 9       E     T  O  P 
+Solution 4
+   1  2  3  4  5  6  7 
+ 1    T  O  O  K       
+ 2    O              H 
+ 3 G  N  U     B     A 
+ 4 U        C  A  S  T 
+ 5 S     G  A  T     H 
+ 6 H  E  R  R     O    
+ 7 Y     O  P  I  N  E 
+ 8    A  V  E     T    
+ 9       E     B  O  D 
+Solution 5
+   1  2  3  4  5  6  7 
+ 1    T  H  A  I       
+ 2    A              S 
+ 3 G  N  U     S     E 
+ 4 O        C  A  S  T 
+ 5 T     G  A  T     S 
+ 6 H  E  R  R     U    
+ 7 S     O  P  E  N  S 
+ 8    E  V  E     D    
+ 9       E     C  O  D 
+Solution 6
+   1  2  3  4  5  6  7 
+ 1    T  E  S  T       
+ 2    E              D 
+ 3 G  N  U     G     A 
+ 4 O        C  A  N  T 
+ 5 T     G  A  T     A 
+ 6 H  E  R  R     O    
+ 7 S     O  P  E  N  S 
+ 8    A  V  E     T    
+ 9       E     B  O  G 
+Solution 7
+   1  2  3  4  5  6  7 
+ 1    T  E  R  N       
+ 2    A              G 
+ 3 G  N  U     O     E 
+ 4 O        C  A  N  T 
+ 5 T     G  A  T     S 
+ 6 H  E  R  R     U    
+ 7 S     O  P  E  N  S 
+ 8    A  V  E     D    
+ 9       E     P  O  P 
+Solution 8
+   1  2  3  4  5  6  7 
+ 1    T  H  A  T       
+ 2    E              D 
+ 3 G  N  U     P     O 
+ 4 U        C  A  N  T 
+ 5 S     G  A  T     S 
+ 6 H  E  R  R     I    
+ 7 Y     O  P  I  N  E 
+ 8    A  V  E     F    
+ 9       E     R  O  B 
+Solution 9
+   1  2  3  4  5  6  7 
+ 1    T  I  P  I       
+ 2    U              A 
+ 3 G  N  U     P     N 
+ 4 O        C  A  N  T 
+ 5 T     G  A  T     E 
+ 6 H  E  R  R     A    
+ 7 S     O  P  E  N  S 
+ 8    E  V  E     N    
+ 9       E     V  O  N 
+Solution 10
+   1  2  3  4  5  6  7 
+ 1    T  O  P  S       
+ 2    U              H 
+ 3 G  N  U     M     O 
+ 4 O        C  A  R  T 
+ 5 T     G  A  T     S 
+ 6 H  E  R  R     U    
+ 7 S     O  P  I  N  E 
+ 8    E  V  E     C    
+ 9       E     S  O  X 
+Solution 11
+   1  2  3  4  5  6  7 
+ 1    T  U  B  S       
+ 2    A              L 
+ 3 G  N  U     B     I 
+ 4 O        C  A  N  T 
+ 5 T     G  A  T     E 
+ 6 H  E  R  R     U    
+ 7 S     O  P  E  N  S 
+ 8    A  V  E     T    
+ 9       E     M  O  D 
+Solution 12
+   1  2  3  4  5  6  7 
+ 1    T  O  M  E       
+ 2    I              S 
+ 3 G  N  U     M     I 
+ 4 U        C  A  N  T 
+ 5 S     G  A  T     U 
+ 6 H  E  R  R     U    
+ 7 Y     O  P  E  N  S 
+ 8    A  V  E     T    
+ 9       E     S  O  C 
+Solution 13
+   1  2  3  4  5  6  7 
+ 1    T  O  T  O       
+ 2    O              C 
+ 3 G  N  U     C     O 
+ 4 U        C  A  R  T 
+ 5 S     G  A  T     S 
+ 6 H  E  R  R     U    
+ 7 Y     O  P  I  N  E 
+ 8    A  V  E     C    
+ 9       E     F  O  B 
+Solution 14
+   1  2  3  4  5  6  7 
+ 1    T  E  D  S       
+ 2    U              D 
+ 3 G  N  U     H     O 
+ 4 U        C  A  S  T 
+ 5 S     G  A  T     E 
+ 6 H  E  R  R     U    
+ 7 Y     O  P  E  N  S 
+ 8    A  V  E     C    
+ 9       E     S  O  D 
+Solution 15
+   1  2  3  4  5  6  7 
+ 1    T  A  R  N       
+ 2    O              M 
+ 3 G  N  U     B     U 
+ 4 U        C  A  N  T 
+ 5 S     G  A  T     T 
+ 6 H  E  R  R     U    
+ 7 Y     O  P  E  N  S 
+ 8    A  V  E     D    
+ 9       E     M  O  O 
+Solution 16
+   1  2  3  4  5  6  7 
+ 1    T  E  N  S       
+ 2    A              D 
+ 3 G  N  U     M     A 
+ 4 U        C  A  R  T 
+ 5 S     G  A  T     A 
+ 6 H  E  R  R     I    
+ 7 Y     O  P  I  N  E 
+ 8    E  V  E     T    
+ 9       E     H  O  W 
+Solution 17
+   1  2  3  4  5  6  7 
+ 1    T  A  R  P       
+ 2    A              A 
+ 3 G  N  U     T     T 
+ 4 U        C  A  R  T 
+ 5 S     G  A  T     Y 
+ 6 H  E  R  R     I    
+ 7 Y     O  P  I  N  E 
+ 8    A  V  E     F    
+ 9       E     S  O  X 
+Solution 18
+   1  2  3  4  5  6  7 
+ 1    T  E  C  H       
+ 2    O              C 
+ 3 G  N  U     S     U 
+ 4 O        C  A  N  T 
+ 5 T     G  A  T     E 
+ 6 H  E  R  R     I    
+ 7 S     O  P  E  N  S 
+ 8    A  V  E     F    
+ 9       E     E  O  F 
+Solution 19
+   1  2  3  4  5  6  7 
+ 1    T  O  L  L       
+ 2    U              B 
+ 3 G  N  U     R     E 
+ 4 U        C  A  S  T 
+ 5 S     G  A  T     A 
+ 6 H  E  R  R     A    
+ 7 Y     O  P  I  N  E 
+ 8    A  V  E     N    
+ 9       E     D  O  T 
+Solution 20
+   1  2  3  4  5  6  7 
+ 1    T  I  L  L       
+ 2    I              T 
+ 3 G  N  U     T     A 
+ 4 O        C  A  S  T 
+ 5 T     G  A  T     S 
+ 6 H  E  R  R     U    
+ 7 S     O  P  I  N  E 
+ 8    A  V  E     C    
+ 9       E     B  O  G 
+Solution 21
+   1  2  3  4  5  6  7 
+ 1    T  O  N  S       
+ 2    I              C 
+ 3 G  N  U     E     O 
+ 4 O        C  A  R  T 
+ 5 T     G  A  T     E 
+ 6 H  E  R  R     A    
+ 7 S     O  P  I  N  E 
+ 8    A  V  E     N    
+ 9       E     D  O  E 
+Solution 22
+   1  2  3  4  5  6  7 
+ 1    T  O  G  A       
+ 2    I              M 
+ 3 G  N  U     T     E 
+ 4 U        C  A  N  T 
+ 5 S     G  A  T     A 
+ 6 H  E  R  R     U    
+ 7 Y     O  P  E  N  S 
+ 8    E  V  E     D    
+ 9       E     C  O  L 
+Solution 23
+   1  2  3  4  5  6  7 
+ 1    T  U  R  D       
+ 2    A              R 
+ 3 G  N  U     P     I 
+ 4 O        C  A  S  T 
+ 5 T     G  A  T     E 
+ 6 H  E  R  R     O    
+ 7 S     O  P  I  N  E 
+ 8    A  V  E     T    
+ 9       E     D  O  C 
+Solution 24
+   1  2  3  4  5  6  7 
+ 1    T  R  E  E       
+ 2    U              G 
+ 3 G  N  U     V     A 
+ 4 O        C  A  S  T 
+ 5 T     G  A  T     S 
+ 6 H  E  R  R     U    
+ 7 S     O  P  E  N  S 
+ 8    E  V  E     D    
+ 9       E     T  O  P 
+Solution 25
+   1  2  3  4  5  6  7 
+ 1    T  W  O  S       
+ 2    I              D 
+ 3 G  N  U     E     A 
+ 4 O        C  A  R  T 
+ 5 T     G  A  T     E 
+ 6 H  E  R  R     U    
+ 7 S     O  P  E  N  S 
+ 8    E  V  E     C    
+ 9       E     F  O  E 
+Solution 26
+   1  2  3  4  5  6  7 
+ 1    T  I  K  E       
+ 2    I              D 
+ 3 G  N  U     R     O 
+ 4 U        C  A  S  T 
+ 5 S     G  A  T     E 
+ 6 H  E  R  R     A    
+ 7 Y     O  P  I  N  E 
+ 8    E  V  E     N    
+ 9       E     N  O  W 
+Solution 27
+   1  2  3  4  5  6  7 
+ 1    T  E  E  S       
+ 2    I              M 
+ 3 G  N  U     H     U 
+ 4 O        C  A  R  T 
+ 5 T     G  A  T     T 
+ 6 H  E  R  R     I    
+ 7 S     O  P  E  N  S 
+ 8    A  V  E     T    
+ 9       E     D  O  S 
+Solution 28
+   1  2  3  4  5  6  7 
+ 1    T  O  P  S       
+ 2    O              G 
+ 3 G  N  U     B     E 
+ 4 U        C  A  S  T 
+ 5 S     G  A  T     S 
+ 6 H  E  R  R     U    
+ 7 Y     O  P  E  N  S 
+ 8    E  V  E     C    
+ 9       E     S  O  T 
+Solution 29
+   1  2  3  4  5  6  7 
+ 1    T  I  N  Y       
+ 2    O              D 
+ 3 G  N  U     G     O 
+ 4 U        C  A  S  T 
+ 5 S     G  A  T     S 
+ 6 H  E  R  R     U    
+ 7 Y     O  P  I  N  E 
+ 8    A  V  E     T    
+ 9       E     T  O  Y 
+Solution 30
+   1  2  3  4  5  6  7 
+ 1    T  Y  P  O       
+ 2    I              B 
+ 3 G  N  U     G     A 
+ 4 U        C  A  N  T 
+ 5 S     G  A  T     S 
+ 6 H  E  R  R     U    
+ 7 Y     O  P  E  N  S 
+ 8    A  V  E     C    
+ 9       E     S  O  S 
+Solution 31
+   1  2  3  4  5  6  7 
+ 1    T  A  C  H       
+ 2    A              M 
+ 3 G  N  U     B     U 
+ 4 O        C  A  S  T 
+ 5 T     G  A  T     T 
+ 6 H  E  R  R     U    
+ 7 S     O  P  I  N  E 
+ 8    A  V  E     D    
+ 9       E     L  O  G 
+Solution 32
+   1  2  3  4  5  6  7 
+ 1    T  R  I  P       
+ 2    E              C 
+ 3 G  N  U     O     A 
+ 4 U        C  A  R  T 
+ 5 S     G  A  T     S 
+ 6 H  E  R  R     U    
+ 7 Y     O  P  I  N  E 
+ 8    E  V  E     T    
+ 9       E     C  O  Y 
+Solution 33
+   1  2  3  4  5  6  7 
+ 1    T  A  C  H       
+ 2    E              T 
+ 3 G  N  U     E     U 
+ 4 O        C  A  N  T 
+ 5 T     G  A  T     S 
+ 6 H  E  R  R     U    
+ 7 S     O  P  I  N  E 
+ 8    E  V  E     C    
+ 9       E     W  O  K 
+Solution 34
+   1  2  3  4  5  6  7 
+ 1    T  E  N  D       
+ 2    U              B 
+ 3 G  N  U     C     I 
+ 4 U        C  A  R  T 
+ 5 S     G  A  T     E 
+ 6 H  E  R  R     A    
+ 7 Y     O  P  E  N  S 
+ 8    A  V  E     N    
+ 9       E     M  O  M 
+Solution 35
+   1  2  3  4  5  6  7 
+ 1    T  O  R  C       
+ 2    E              A 
+ 3 G  N  U     C     T 
+ 4 O        C  A  N  T 
+ 5 T     G  A  T     N 
+ 6 H  E  R  R     U    
+ 7 S     O  P  I  N  E 
+ 8    E  V  E     C    
+ 9       E     L  O  B 
+Solution 36
+   1  2  3  4  5  6  7 
+ 1    T  O  T  O       
+ 2    I              R 
+ 3 G  N  U     M     O 
+ 4 U        C  A  S  T 
+ 5 S     G  A  T     S 
+ 6 H  E  R  R     U    
+ 7 Y     O  P  E  N  S 
+ 8    E  V  E     T    
+ 9       E     T  O  Y 
+Solution 37
+   1  2  3  4  5  6  7 
+ 1    T  I  K  E       
+ 2    I              P 
+ 3 G  N  U     F     E 
+ 4 U        C  A  N  T 
+ 5 S     G  A  T     S 
+ 6 H  E  R  R     I    
+ 7 Y     O  P  I  N  E 
+ 8    E  V  E     F    
+ 9       E     M  O  B 
+Solution 38
+   1  2  3  4  5  6  7 
+ 1    T  E  A  K       
+ 2    E              K 
+ 3 G  N  U     R     I 
+ 4 U        C  A  N  T 
+ 5 S     G  A  T     S 
+ 6 H  E  R  R     U    
+ 7 Y     O  P  E  N  S 
+ 8    A  V  E     D    
+ 9       E     T  O  G 
+Solution 39
+   1  2  3  4  5  6  7 
+ 1    T  I  L  E       
+ 2    O              I 
+ 3 G  N  U     B     N 
+ 4 O        C  A  S  T 
+ 5 T     G  A  T     R 
+ 6 H  E  R  R     U    
+ 7 S     O  P  I  N  E 
+ 8    A  V  E     D    
+ 9       E     P  O  X 
+Solution 40
+   1  2  3  4  5  6  7 
+ 1    T  H  E  W       
+ 2    U              J 
+ 3 G  N  U     T     A 
+ 4 O        C  A  S  T 
+ 5 T     G  A  T     O 
+ 6 H  E  R  R     A    
+ 7 S     O  P  I  N  E 
+ 8    A  V  E     N    
+ 9       E     S  O  S 
+Solution 41
+   1  2  3  4  5  6  7 
+ 1    T  O  L  D       
+ 2    U              M 
+ 3 G  N  U     G     O 
+ 4 U        C  A  N  T 
+ 5 S     G  A  T     E 
+ 6 H  E  R  R     U    
+ 7 Y     O  P  E  N  S 
+ 8    E  V  E     C    
+ 9       E     H  O  I 
+Solution 42
+   1  2  3  4  5  6  7 
+ 1    T  W  A  S       
+ 2    I              R 
+ 3 G  N  U     T     E 
+ 4 U        C  A  N  T 
+ 5 S     G  A  T     D 
+ 6 H  E  R  R     O    
+ 7 Y     O  P  I  N  E 
+ 8    E  V  E     T    
+ 9       E     H  O  R 
+Solution 43
+   1  2  3  4  5  6  7 
+ 1    T  O  N  Y       
+ 2    I              A 
+ 3 G  N  U     S     T 
+ 4 O        C  A  R  T 
+ 5 T     G  A  T     Y 
+ 6 H  E  R  R     U    
+ 7 S     O  P  E  N  S 
+ 8    E  V  E     D    
+ 9       E     M  O  W 
+Solution 44
+   1  2  3  4  5  6  7 
+ 1    T  A  S  K       
+ 2    O              J 
+ 3 G  N  U     T     O 
+ 4 U        C  A  N  T 
+ 5 S     G  A  T     S 
+ 6 H  E  R  R     U    
+ 7 Y     O  P  I  N  E 
+ 8    E  V  E     D    
+ 9       E     C  O  O 
+Solution 45
+   1  2  3  4  5  6  7 
+ 1    T  H  I  N       
+ 2    A              H 
+ 3 G  N  U     E     U 
+ 4 O        C  A  N  T 
+ 5 T     G  A  T     S 
+ 6 H  E  R  R     U    
+ 7 S     O  P  I  N  E 
+ 8    E  V  E     D    
+ 9       E     N  O  B 
+Solution 46
+   1  2  3  4  5  6  7 
+ 1    T  U  S  H       
+ 2    O              H 
+ 3 G  N  U     S     U 
+ 4 U        C  A  S  T 
+ 5 S     G  A  T     S 
+ 6 H  E  R  R     U    
+ 7 Y     O  P  I  N  E 
+ 8    E  V  E     C    
+ 9       E     E  O  N 
+Solution 47
+   1  2  3  4  5  6  7 
+ 1    T  E  A  K       
+ 2    O              R 
+ 3 G  N  U     H     E 
+ 4 U        C  A  N  T 
+ 5 S     G  A  T     D 
+ 6 H  E  R  R     I    
+ 7 Y     O  P  E  N  S 
+ 8    E  V  E     T    
+ 9       E     V  O  X 
+Solution 48
+   1  2  3  4  5  6  7 
+ 1    T  A  T  S       
+ 2    A              R 
+ 3 G  N  U     F     O 
+ 4 O        C  A  R  T 
+ 5 T     G  A  T     S 
+ 6 H  E  R  R     I    
+ 7 S     O  P  I  N  E 
+ 8    A  V  E     F    
+ 9       E     L  O  W 
+Solution 49
+   1  2  3  4  5  6  7 
+ 1    T  O  E  S       
+ 2    U              B 
+ 3 G  N  U     M     E 
+ 4 O        C  A  N  T 
+ 5 T     G  A  T     S 
+ 6 H  E  R  R     O    
+ 7 S     O  P  I  N  E 
+ 8    A  V  E     T    
+ 9       E     S  O  L 
+Solution 50
+   1  2  3  4  5  6  7 
+ 1    T  W  A  T       
+ 2    O              M 
+ 3 G  N  U     P     U 
+ 4 U        C  A  R  T 
+ 5 S     G  A  T     T 
+ 6 H  E  R  R     A    
+ 7 Y     O  P  I  N  E 
+ 8    E  V  E     N    
+ 9       E     S  O  L 
+Solution 51
+   1  2  3  4  5  6  7 
+ 1    T  E  S  T       
+ 2    U              W 
+ 3 G  N  U     V     A 
+ 4 U        C  A  S  T 
+ 5 S     G  A  T     T 
+ 6 H  E  R  R     O    
+ 7 Y     O  P  E  N  S 
+ 8    A  V  E     T    
+ 9       E     L  O  X 
+Solution 52
+   1  2  3  4  5  6  7 
+ 1    T  A  R  S       
+ 2    O              K 
+ 3 G  N  U     F     I 
+ 4 O        C  A  R  T 
+ 5 T     G  A  T     S 
+ 6 H  E  R  R     A    
+ 7 S     O  P  E  N  S 
+ 8    E  V  E     N    
+ 9       E     T  O  T 
+Solution 53
+   1  2  3  4  5  6  7 
+ 1    T  H  R  U       
+ 2    I              L 
+ 3 G  N  U     S     I 
+ 4 O        C  A  R  T 
+ 5 T     G  A  T     E 
+ 6 H  E  R  R     A    
+ 7 S     O  P  I  N  E 
+ 8    A  V  E     N    
+ 9       E     S  O  T 
+Solution 54
+   1  2  3  4  5  6  7 
+ 1    T  R  I  P       
+ 2    O              N 
+ 3 G  N  U     S     O 
+ 4 O        C  A  R  T 
+ 5 T     G  A  T     E 
+ 6 H  E  R  R     U    
+ 7 S     O  P  E  N  S 
+ 8    A  V  E     T    
+ 9       E     T  O  R 
+Solution 55
+   1  2  3  4  5  6  7 
+ 1    T  O  N  S       
+ 2    A              K 
+ 3 G  N  U     T     I 
+ 4 U        C  A  N  T 
+ 5 S     G  A  T     S 
+ 6 H  E  R  R     U    
+ 7 Y     O  P  E  N  S 
+ 8    E  V  E     D    
+ 9       E     L  O  P 
+Solution 56
+   1  2  3  4  5  6  7 
+ 1    T  O  E  S       
+ 2    E              K 
+ 3 G  N  U     V     I 
+ 4 O        C  A  S  T 
+ 5 T     G  A  T     S 
+ 6 H  E  R  R     U    
+ 7 S     O  P  I  N  E 
+ 8    E  V  E     D    
+ 9       E     N  O  R 
+Solution 57
+   1  2  3  4  5  6  7 
+ 1    T  A  O  S       
+ 2    O              J 
+ 3 G  N  U     H     E 
+ 4 U        C  A  R  T 
+ 5 S     G  A  T     S 
+ 6 H  E  R  R     O    
+ 7 Y     O  P  E  N  S 
+ 8    E  V  E     T    
+ 9       E     F  O  X 
+Solution 58
+   1  2  3  4  5  6  7 
+ 1    T  O  M  E       
+ 2    A              L 
+ 3 G  N  U     T     I 
+ 4 U        C  A  R  T 
+ 5 S     G  A  T     S 
+ 6 H  E  R  R     A    
+ 7 Y     O  P  I  N  E 
+ 8    A  V  E     N    
+ 9       E     E  O  F 
+Solution 59
+   1  2  3  4  5  6  7 
+ 1    T  W  I  T       
+ 2    I              N 
+ 3 G  N  U     G     U 
+ 4 U        C  A  R  T 
+ 5 S     G  A  T     S 
+ 6 H  E  R  R     U    
+ 7 Y     O  P  I  N  E 
+ 8    E  V  E     D    
+ 9       E     N  O  B 
+Solution 60
+   1  2  3  4  5  6  7 
+ 1    T  O  R  T       
+ 2    I              B 
+ 3 G  N  U     M     A 
+ 4 O        C  A  N  T 
+ 5 T     G  A  T     H 
+ 6 H  E  R  R     U    
+ 7 S     O  P  E  N  S 
+ 8    E  V  E     T    
+ 9       E     B  O  D 
+Solution 61
+   1  2  3  4  5  6  7 
+ 1    T  H  E  N       
+ 2    E              A 
+ 3 G  N  U     V     L 
+ 4 O        C  A  S  T 
+ 5 T     G  A  T     O 
+ 6 H  E  R  R     O    
+ 7 S     O  P  E  N  S 
+ 8    A  V  E     T    
+ 9       E     L  O  C 
+Solution 62
+   1  2  3  4  5  6  7 
+ 1    T  E  D  S       
+ 2    I              M 
+ 3 G  N  U     B     U 
+ 4 U        C  A  N  T 
+ 5 S     G  A  T     E 
+ 6 H  E  R  R     I    
+ 7 Y     O  P  I  N  E 
+ 8    A  V  E     F    
+ 9       E     T  O  P 
+Solution 63
+   1  2  3  4  5  6  7 
+ 1    T  R  A  Y       
+ 2    O              S 
+ 3 G  N  U     T     A 
+ 4 O        C  A  S  T 
+ 5 T     G  A  T     E 
+ 6 H  E  R  R     O    
+ 7 S     O  P  I  N  E 
+ 8    A  V  E     T    
+ 9       E     N  O  D 
+Solution 64
+   1  2  3  4  5  6  7 
+ 1    T  A  N  S       
+ 2    U              W 
+ 3 G  N  U     B     O 
+ 4 U        C  A  N  T 
+ 5 S     G  A  T     S 
+ 6 H  E  R  R     O    
+ 7 Y     O  P  E  N  S 
+ 8    E  V  E     T    
+ 9       E     C  O  M 
+Solution 65
+   1  2  3  4  5  6  7 
+ 1    T  O  S  S       
+ 2    I              J 
+ 3 G  N  U     S     A 
+ 4 U        C  A  S  T 
+ 5 S     G  A  T     O 
+ 6 H  E  R  R     U    
+ 7 Y     O  P  E  N  S 
+ 8    E  V  E     T    
+ 9       E     J  O  G 
+Solution 66
+   1  2  3  4  5  6  7 
+ 1    T  W  I  T       
+ 2    A              M 
+ 3 G  N  U     O     I 
+ 4 O        C  A  N  T 
+ 5 T     G  A  T     T 
+ 6 H  E  R  R     O    
+ 7 S     O  P  I  N  E 
+ 8    E  V  E     T    
+ 9       E     L  O  X 
+30.1304886341

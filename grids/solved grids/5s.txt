@@ -1,0 +1,801 @@
+Solution 1
+   1  2  3  4  5  6 
+ 1 C  R     L  R    
+ 2 U     P  A  N  G 
+ 3 R  O  O  D     O 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 E     P  A       
+Solution 2
+   1  2  3  4  5  6 
+ 1 C  R     L  R    
+ 2 U     P  A  N  G 
+ 3 R  O  O  D     A 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 B     V  A       
+Solution 3
+   1  2  3  4  5  6 
+ 1 C  S     L  R    
+ 2 A     P  A  N  G 
+ 3 R  O  O  D     A 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 Y     L  A       
+Solution 4
+   1  2  3  4  5  6 
+ 1 C  A     L  R    
+ 2 U     P  A  N  G 
+ 3 R  O  O  D     A 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 B     V  A       
+Solution 5
+   1  2  3  4  5  6 
+ 1 C  C     L  R    
+ 2 U     P  A  N  G 
+ 3 R  O  O  D     O 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 R     L  A       
+Solution 6
+   1  2  3  4  5  6 
+ 1 C  L     L  R    
+ 2 U     P  A  N  G 
+ 3 R  O  O  D     A 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 R     P  A       
+Solution 7
+   1  2  3  4  5  6 
+ 1 C  T     L  R    
+ 2 A     P  A  N  G 
+ 3 R  O  O  D     O 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 Y     W  A       
+Solution 8
+   1  2  3  4  5  6 
+ 1 C  A     L  R    
+ 2 U     P  A  N  G 
+ 3 R  O  O  D     O 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 Y     P  A       
+Solution 9
+   1  2  3  4  5  6 
+ 1 C  D     L  R    
+ 2 U     P  A  N  G 
+ 3 R  O  O  D     O 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 B     V  A       
+Solution 10
+   1  2  3  4  5  6 
+ 1 C  O     L  R    
+ 2 A     P  A  N  G 
+ 3 R  O  O  D     A 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 Y     G  A       
+Solution 11
+   1  2  3  4  5  6 
+ 1 C  A     L  R    
+ 2 U     P  A  N  G 
+ 3 R  O  O  D     A 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 Y     V  A       
+Solution 12
+   1  2  3  4  5  6 
+ 1 C  O     L  R    
+ 2 U     P  A  N  G 
+ 3 R  O  O  D     A 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 E     L  A       
+Solution 13
+   1  2  3  4  5  6 
+ 1 C  C     L  R    
+ 2 U     P  A  N  G 
+ 3 R  O  O  D     O 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 Y     S  A       
+Solution 14
+   1  2  3  4  5  6 
+ 1 C  T     L  R    
+ 2 U     P  A  N  G 
+ 3 R  O  O  D     A 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 R     S  A       
+Solution 15
+   1  2  3  4  5  6 
+ 1 C  C     L  R    
+ 2 U     P  A  N  G 
+ 3 R  O  O  D     A 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 Y     G  A       
+Solution 16
+   1  2  3  4  5  6 
+ 1 C  T     L  R    
+ 2 U     P  A  N  G 
+ 3 R  O  O  D     O 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 B     V  A       
+Solution 17
+   1  2  3  4  5  6 
+ 1 C  A     L  R    
+ 2 A     P  A  N  G 
+ 3 R  O  O  D     O 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 B     N  A       
+Solution 18
+   1  2  3  4  5  6 
+ 1 C  R     L  R    
+ 2 A     P  A  N  G 
+ 3 R  O  O  D     A 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 R     C  A       
+Solution 19
+   1  2  3  4  5  6 
+ 1 C  L     L  R    
+ 2 U     P  A  N  G 
+ 3 R  O  O  D     A 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 E     P  A       
+Solution 20
+   1  2  3  4  5  6 
+ 1 C  O     L  R    
+ 2 A     P  A  N  G 
+ 3 R  O  O  D     O 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 Y     S  A       
+Solution 21
+   1  2  3  4  5  6 
+ 1 C  C     L  R    
+ 2 A     P  A  N  G 
+ 3 R  O  O  D     O 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 E     S  A       
+Solution 22
+   1  2  3  4  5  6 
+ 1 C  L     L  R    
+ 2 U     P  A  N  G 
+ 3 R  O  O  D     O 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 E     W  A       
+Solution 23
+   1  2  3  4  5  6 
+ 1 C  D     L  R    
+ 2 U     P  A  N  G 
+ 3 R  O  O  D     O 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 B     N  A       
+Solution 24
+   1  2  3  4  5  6 
+ 1 C  C     L  R    
+ 2 A     P  A  N  G 
+ 3 R  O  O  D     A 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 R     S  A       
+Solution 25
+   1  2  3  4  5  6 
+ 1 C  C     L  R    
+ 2 U     P  A  N  G 
+ 3 R  O  O  D     O 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 E     C  A       
+Solution 26
+   1  2  3  4  5  6 
+ 1 C  O     L  R    
+ 2 U     P  A  N  G 
+ 3 R  O  O  D     A 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 B     L  A       
+Solution 27
+   1  2  3  4  5  6 
+ 1 C  R     L  R    
+ 2 A     P  A  N  G 
+ 3 R  O  O  D     A 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 R     V  A       
+Solution 28
+   1  2  3  4  5  6 
+ 1 C  T     L  R    
+ 2 A     P  A  N  G 
+ 3 R  O  O  D     O 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 R     M  A       
+Solution 29
+   1  2  3  4  5  6 
+ 1 C  S     L  R    
+ 2 A     P  A  N  G 
+ 3 R  O  O  D     O 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 B     V  A       
+Solution 30
+   1  2  3  4  5  6 
+ 1 C  C     L  R    
+ 2 A     P  A  N  G 
+ 3 R  O  O  D     O 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 Y     H  A       
+Solution 31
+   1  2  3  4  5  6 
+ 1 C  O     L  R    
+ 2 A     P  A  N  G 
+ 3 R  O  O  D     O 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 E     W  A       
+Solution 32
+   1  2  3  4  5  6 
+ 1 C  C     L  R    
+ 2 U     P  A  N  G 
+ 3 R  O  O  D     A 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 E     P  A       
+Solution 33
+   1  2  3  4  5  6 
+ 1 C  L     L  R    
+ 2 A     P  A  N  G 
+ 3 R  O  O  D     O 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 Y     C  A       
+Solution 34
+   1  2  3  4  5  6 
+ 1 C  R     L  R    
+ 2 A     P  A  N  G 
+ 3 R  O  O  D     O 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 B     P  A       
+Solution 35
+   1  2  3  4  5  6 
+ 1 C  L     L  R    
+ 2 A     P  A  N  G 
+ 3 R  O  O  D     A 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 E     C  A       
+Solution 36
+   1  2  3  4  5  6 
+ 1 C  R     L  R    
+ 2 A     P  A  N  G 
+ 3 R  O  O  D     O 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 R     P  A       
+Solution 37
+   1  2  3  4  5  6 
+ 1 C  O     L  R    
+ 2 U     P  A  N  G 
+ 3 R  O  O  D     A 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 E     W  A       
+Solution 38
+   1  2  3  4  5  6 
+ 1 C  L     L  R    
+ 2 U     P  A  N  G 
+ 3 R  O  O  D     A 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 B     L  A       
+Solution 39
+   1  2  3  4  5  6 
+ 1 C  S     L  R    
+ 2 U     P  A  N  G 
+ 3 R  O  O  D     O 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 R     L  A       
+Solution 40
+   1  2  3  4  5  6 
+ 1 C  R     L  R    
+ 2 U     P  A  N  G 
+ 3 R  O  O  D     A 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 B     H  A       
+Solution 41
+   1  2  3  4  5  6 
+ 1 C  L     L  R    
+ 2 U     P  A  N  G 
+ 3 R  O  O  D     A 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 E     V  A       
+Solution 42
+   1  2  3  4  5  6 
+ 1 C  D     L  R    
+ 2 U     P  A  N  G 
+ 3 R  O  O  D     A 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 Y     W  A       
+Solution 43
+   1  2  3  4  5  6 
+ 1 C  S     L  R    
+ 2 A     P  A  N  G 
+ 3 R  O  O  D     A 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 E     V  A       
+Solution 44
+   1  2  3  4  5  6 
+ 1 C  T     L  R    
+ 2 U     P  A  N  G 
+ 3 R  O  O  D     O 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 R     C  A       
+Solution 45
+   1  2  3  4  5  6 
+ 1 C  C     L  R    
+ 2 A     P  A  N  G 
+ 3 R  O  O  D     A 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 B     H  A       
+Solution 46
+   1  2  3  4  5  6 
+ 1 C  A     L  R    
+ 2 U     P  A  N  G 
+ 3 R  O  O  D     O 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 B     L  A       
+Solution 47
+   1  2  3  4  5  6 
+ 1 C  S     L  R    
+ 2 A     P  A  N  G 
+ 3 R  O  O  D     O 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 B     V  A       
+Solution 48
+   1  2  3  4  5  6 
+ 1 C  O     L  R    
+ 2 U     P  A  N  G 
+ 3 R  O  O  D     O 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 E     L  A       
+Solution 49
+   1  2  3  4  5  6 
+ 1 C  S     L  R    
+ 2 A     P  A  N  G 
+ 3 R  O  O  D     O 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 R     W  A       
+Solution 50
+   1  2  3  4  5  6 
+ 1 C  R     L  R    
+ 2 A     P  A  N  G 
+ 3 R  O  O  D     A 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 Y     N  A       
+Solution 51
+   1  2  3  4  5  6 
+ 1 C  C     L  R    
+ 2 U     P  A  N  G 
+ 3 R  O  O  D     A 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 E     N  A       
+Solution 52
+   1  2  3  4  5  6 
+ 1 C  O     L  R    
+ 2 A     P  A  N  G 
+ 3 R  O  O  D     A 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 B     G  A       
+Solution 53
+   1  2  3  4  5  6 
+ 1 C  S     L  R    
+ 2 U     P  A  N  G 
+ 3 R  O  O  D     O 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 Y     N  A       
+Solution 54
+   1  2  3  4  5  6 
+ 1 C  L     L  R    
+ 2 U     P  A  N  G 
+ 3 R  O  O  D     O 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 Y     H  A       
+Solution 55
+   1  2  3  4  5  6 
+ 1 C  S     L  R    
+ 2 A     P  A  N  G 
+ 3 R  O  O  D     A 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 Y     N  A       
+Solution 56
+   1  2  3  4  5  6 
+ 1 C  L     L  R    
+ 2 U     P  A  N  G 
+ 3 R  O  O  D     O 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 R     S  A       
+Solution 57
+   1  2  3  4  5  6 
+ 1 C  R     L  R    
+ 2 A     P  A  N  G 
+ 3 R  O  O  D     O 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 Y     S  A       
+Solution 58
+   1  2  3  4  5  6 
+ 1 C  C     L  R    
+ 2 U     P  A  N  G 
+ 3 R  O  O  D     A 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 R     L  A       
+Solution 59
+   1  2  3  4  5  6 
+ 1 C  T     L  R    
+ 2 U     P  A  N  G 
+ 3 R  O  O  D     O 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 Y     H  A       
+Solution 60
+   1  2  3  4  5  6 
+ 1 C  L     L  R    
+ 2 U     P  A  N  G 
+ 3 R  O  O  D     A 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 E     N  A       
+Solution 61
+   1  2  3  4  5  6 
+ 1 C  L     L  R    
+ 2 U     P  A  N  G 
+ 3 R  O  O  D     O 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 R     V  A       
+Solution 62
+   1  2  3  4  5  6 
+ 1 C  O     L  R    
+ 2 U     P  A  N  G 
+ 3 R  O  O  D     A 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 B     M  A       
+Solution 63
+   1  2  3  4  5  6 
+ 1 C  S     L  R    
+ 2 A     P  A  N  G 
+ 3 R  O  O  D     O 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 B     S  A       
+Solution 64
+   1  2  3  4  5  6 
+ 1 C  L     L  R    
+ 2 U     P  A  N  G 
+ 3 R  O  O  D     A 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 E     P  A       
+Solution 65
+   1  2  3  4  5  6 
+ 1 C  S     L  R    
+ 2 U     P  A  N  G 
+ 3 R  O  O  D     A 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 Y     N  A       
+Solution 66
+   1  2  3  4  5  6 
+ 1 C  C     L  R    
+ 2 A     P  A  N  G 
+ 3 R  O  O  D     A 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 Y     S  A       
+Solution 67
+   1  2  3  4  5  6 
+ 1 C  A     L  R    
+ 2 U     P  A  N  G 
+ 3 R  O  O  D     O 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 E     H  A       
+Solution 68
+   1  2  3  4  5  6 
+ 1 C  S     L  R    
+ 2 U     P  A  N  G 
+ 3 R  O  O  D     A 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 B     W  A       
+Solution 69
+   1  2  3  4  5  6 
+ 1 C  C     L  R    
+ 2 A     P  A  N  G 
+ 3 R  O  O  D     O 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 B     H  A       
+Solution 70
+   1  2  3  4  5  6 
+ 1 C  S     L  R    
+ 2 U     P  A  N  G 
+ 3 R  O  O  D     O 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 B     G  A       
+Solution 71
+   1  2  3  4  5  6 
+ 1 C  D     L  R    
+ 2 U     P  A  N  G 
+ 3 R  O  O  D     A 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 E     G  A       
+Solution 72
+   1  2  3  4  5  6 
+ 1 C  T     L  R    
+ 2 U     P  A  N  G 
+ 3 R  O  O  D     O 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 Y     V  A       
+Solution 73
+   1  2  3  4  5  6 
+ 1 C  O     L  R    
+ 2 A     P  A  N  G 
+ 3 R  O  O  D     A 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 B     M  A       
+Solution 74
+   1  2  3  4  5  6 
+ 1 C  L     L  R    
+ 2 A     P  A  N  G 
+ 3 R  O  O  D     O 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 B     M  A       
+Solution 75
+   1  2  3  4  5  6 
+ 1 C  S     L  R    
+ 2 A     P  A  N  G 
+ 3 R  O  O  D     O 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 B     C  A       
+Solution 76
+   1  2  3  4  5  6 
+ 1 C  L     L  R    
+ 2 U     P  A  N  G 
+ 3 R  O  O  D     A 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 B     V  A       
+Solution 77
+   1  2  3  4  5  6 
+ 1 C  L     L  R    
+ 2 A     P  A  N  G 
+ 3 R  O  O  D     A 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 B     V  A       
+Solution 78
+   1  2  3  4  5  6 
+ 1 C  T     L  R    
+ 2 U     P  A  N  G 
+ 3 R  O  O  D     A 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 Y     L  A       
+Solution 79
+   1  2  3  4  5  6 
+ 1 C  C     L  R    
+ 2 U     P  A  N  G 
+ 3 R  O  O  D     A 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 Y     N  A       
+Solution 80
+   1  2  3  4  5  6 
+ 1 C  L     L  R    
+ 2 A     P  A  N  G 
+ 3 R  O  O  D     O 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 Y     V  A       
+Solution 81
+   1  2  3  4  5  6 
+ 1 C  R     L  R    
+ 2 A     P  A  N  G 
+ 3 R  O  O  D     A 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 E     H  A       
+Solution 82
+   1  2  3  4  5  6 
+ 1 C  A     L  R    
+ 2 A     P  A  N  G 
+ 3 R  O  O  D     O 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 R     L  A       
+Solution 83
+   1  2  3  4  5  6 
+ 1 C  R     L  R    
+ 2 A     P  A  N  G 
+ 3 R  O  O  D     A 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 Y     L  A       
+Solution 84
+   1  2  3  4  5  6 
+ 1 C  L     L  R    
+ 2 U     P  A  N  G 
+ 3 R  O  O  D     O 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 Y     L  A       
+Solution 85
+   1  2  3  4  5  6 
+ 1 C  L     L  R    
+ 2 A     P  A  N  G 
+ 3 R  O  O  D     O 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 Y     P  A       
+Solution 86
+   1  2  3  4  5  6 
+ 1 C  O     L  R    
+ 2 U     P  A  N  G 
+ 3 R  O  O  D     A 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 R     G  A       
+Solution 87
+   1  2  3  4  5  6 
+ 1 C  R     L  R    
+ 2 A     P  A  N  G 
+ 3 R  O  O  D     A 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 R     W  A       
+Solution 88
+   1  2  3  4  5  6 
+ 1 C  A     L  R    
+ 2 U     P  A  N  G 
+ 3 R  O  O  D     A 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 B     S  A       
+Solution 89
+   1  2  3  4  5  6 
+ 1 C  R     L  R    
+ 2 U     P  A  N  G 
+ 3 R  O  O  D     A 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 Y     G  A       
+Solution 90
+   1  2  3  4  5  6 
+ 1 C  A     L  R    
+ 2 A     P  A  N  G 
+ 3 R  O  O  D     A 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 E     P  A       
+Solution 91
+   1  2  3  4  5  6 
+ 1 C  D     L  R    
+ 2 A     P  A  N  G 
+ 3 R  O  O  D     A 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 Y     L  A       
+Solution 92
+   1  2  3  4  5  6 
+ 1 C  R     L  R    
+ 2 A     P  A  N  G 
+ 3 R  O  O  D     O 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 R     G  A       
+Solution 93
+   1  2  3  4  5  6 
+ 1 C  D     L  R    
+ 2 A     P  A  N  G 
+ 3 R  O  O  D     O 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 B     N  A       
+Solution 94
+   1  2  3  4  5  6 
+ 1 C  S     L  R    
+ 2 U     P  A  N  G 
+ 3 R  O  O  D     O 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 E     L  A       
+Solution 95
+   1  2  3  4  5  6 
+ 1 C  S     L  R    
+ 2 U     P  A  N  G 
+ 3 R  O  O  D     O 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 Y     H  A       
+Solution 96
+   1  2  3  4  5  6 
+ 1 C  L     L  R    
+ 2 A     P  A  N  G 
+ 3 R  O  O  D     A 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 B     P  A       
+Solution 97
+   1  2  3  4  5  6 
+ 1 C  L     L  R    
+ 2 A     P  A  N  G 
+ 3 R  O  O  D     A 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 E     P  A       
+Solution 98
+   1  2  3  4  5  6 
+ 1 C  T     L  R    
+ 2 U     P  A  N  G 
+ 3 R  O  O  D     A 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 R     S  A       
+Solution 99
+   1  2  3  4  5  6 
+ 1 C  S     L  R    
+ 2 A     P  A  N  G 
+ 3 R  O  O  D     O 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 R     G  A       
+Solution 100
+   1  2  3  4  5  6 
+ 1 C  T     L  R    
+ 2 A     P  A  N  G 
+ 3 R  O  O  D     O 
+ 4    U  P     C  D 
+ 5 B  R     W  A    
+ 6 E     S  A       
+29.4738368988

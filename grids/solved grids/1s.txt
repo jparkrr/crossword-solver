@@ -1,0 +1,1101 @@
+Solution 1
+   1  2  3  4  5  6  7  8  9 
+ 1             P             
+ 2 W  I  T     E             
+ 3       A  V  E             
+ 4       P  A  N  G     B    
+ 5       R              A    
+ 6       O  X  E  N     R    
+ 7       O              M    
+ 8       M              I    
+ 9       S  T  R  I  V  E  S 
+Solution 2
+   1  2  3  4  5  6  7  8  9 
+ 1             G             
+ 2 W  I  T     L             
+ 3       A  V  E             
+ 4       P  A  N  G     S    
+ 5       H              A    
+ 6       O  R  T  H     M    
+ 7       L              B    
+ 8       E              A    
+ 9       S  A  P  L  E  S  S 
+Solution 3
+   1  2  3  4  5  6  7  8  9 
+ 1             A             
+ 2 C  U  T     M             
+ 3       A  V  E             
+ 4       P  A  N  T     T    
+ 5       H              H    
+ 6       O  R  A  L     E    
+ 7       L              R    
+ 8       E              M    
+ 9       S  U  G  G  E  S  T 
+Solution 4
+   1  2  3  4  5  6  7  8  9 
+ 1             T             
+ 2 L  I  T     E             
+ 3       A  V  E             
+ 4       P  A  N  T     A    
+ 5       H              U    
+ 6       O  W  E  S     R    
+ 7       L              E    
+ 8       E              U    
+ 9       S  T  O  N  I  S  H 
+Solution 5
+   1  2  3  4  5  6  7  8  9 
+ 1             P             
+ 2 A  P  T     E             
+ 3       A  V  E             
+ 4       P  A  N  T     C    
+ 5       I              A    
+ 6       O  R  B  S     V    
+ 7       C              I    
+ 8       A              E    
+ 9       S  U  G  G  E  S  T 
+Solution 6
+   1  2  3  4  5  6  7  8  9 
+ 1             G             
+ 2 V  E  T     L             
+ 3       A  V  E             
+ 4       P  A  N  G     B    
+ 5       R              A    
+ 6       O  P  A  L     T    
+ 7       O              H    
+ 8       M              E    
+ 9       S  U  N  W  I  S  E 
+Solution 7
+   1  2  3  4  5  6  7  8  9 
+ 1             K             
+ 2 C  I  T     E             
+ 3       A  V  E             
+ 4       P  A  N  T     C    
+ 5       H              H    
+ 6       O  D  E  S     E    
+ 7       L              E    
+ 8       E              R    
+ 9       S  A  D  N  E  S  S 
+Solution 8
+   1  2  3  4  5  6  7  8  9 
+ 1             L             
+ 2 M  A  T     I             
+ 3       A  V  E             
+ 4       P  A  N  G     C    
+ 5       R              O    
+ 6       O  O  H  S     N    
+ 7       O              G    
+ 8       M              A    
+ 9       S  U  B  T  A  S  K 
+Solution 9
+   1  2  3  4  5  6  7  8  9 
+ 1             E             
+ 2 P  U  T     V             
+ 3       A  V  E             
+ 4       P  A  N  G     P    
+ 5       R              L    
+ 6       O  R  C  H     A    
+ 7       O              T    
+ 8       T              Y    
+ 9       S  T  A  T  I  S  T 
+Solution 10
+   1  2  3  4  5  6  7  8  9 
+ 1             G             
+ 2 A  F  T     L             
+ 3       A  V  E             
+ 4       P  A  N  E     B    
+ 5       H              A    
+ 6       O  P  U  S     B    
+ 7       L              U    
+ 8       E              L    
+ 9       S  U  C  R  O  S  E 
+Solution 11
+   1  2  3  4  5  6  7  8  9 
+ 1             S             
+ 2 C  S  T     E             
+ 3       A  V  E             
+ 4       P  A  N  E     M    
+ 5       I              A    
+ 6       O  A  K  S     C    
+ 7       C              R    
+ 8       A              O    
+ 9       S  E  R  F  I  S  H 
+Solution 12
+   1  2  3  4  5  6  7  8  9 
+ 1             E             
+ 2 O  P  T     D             
+ 3       A  V  E             
+ 4       P  A  N  E     T    
+ 5       H              O    
+ 6       O  I  L  Y     O    
+ 7       L              T    
+ 8       E              H    
+ 9       S  H  I  A  T  S  U 
+Solution 13
+   1  2  3  4  5  6  7  8  9 
+ 1             T             
+ 2 A  L  T     E             
+ 3       A  V  E             
+ 4       P  A  N  T     T    
+ 5       I              E    
+ 6       O  O  H  S     N    
+ 7       C              T    
+ 8       A              H    
+ 9       S  O  T  T  I  S  H 
+Solution 14
+   1  2  3  4  5  6  7  8  9 
+ 1             T             
+ 2 I  N  T     H             
+ 3       A  V  E             
+ 4       P  A  N  S     T    
+ 5       H              Y    
+ 6       O  R  I  G     P    
+ 7       L              H    
+ 8       E              U    
+ 9       S  P  A  R  E  S  T 
+Solution 15
+   1  2  3  4  5  6  7  8  9 
+ 1             E             
+ 2 C  O  T     D             
+ 3       A  V  E             
+ 4       P  A  N  S     P    
+ 5       H              I    
+ 6       O  N  C  E     S    
+ 7       L              S    
+ 8       E              E    
+ 9       S  N  I  D  E  S  T 
+Solution 16
+   1  2  3  4  5  6  7  8  9 
+ 1             P             
+ 2 H  U  T     E             
+ 3       A  V  E             
+ 4       P  A  N  G     M    
+ 5       R              A    
+ 6       O  D  I  C     C    
+ 7       O              H    
+ 8       M              O    
+ 9       S  P  R  Y  E  S  T 
+Solution 17
+   1  2  3  4  5  6  7  8  9 
+ 1             O             
+ 2 Y  E  T     X             
+ 3       A  V  E             
+ 4       P  A  N  S     S    
+ 5       R              P    
+ 6       O  V  E  N     L    
+ 7       O              I    
+ 8       M              T    
+ 9       S  T  Y  L  I  S  H 
+Solution 18
+   1  2  3  4  5  6  7  8  9 
+ 1             K             
+ 2 B  A  T     E             
+ 3       A  V  E             
+ 4       P  A  N  T     L    
+ 5       R              E    
+ 6       O  N  U  S     T    
+ 7       O              U    
+ 8       M              P    
+ 9       S  I  K  H  I  S  M 
+Solution 19
+   1  2  3  4  5  6  7  8  9 
+ 1             W             
+ 2 E  X  T     H             
+ 3       A  V  E             
+ 4       P  A  N  G     M    
+ 5       H              I    
+ 6       O  P  U  S     D    
+ 7       L              S    
+ 8       E              T    
+ 9       S  A  P  L  E  S  S 
+Solution 20
+   1  2  3  4  5  6  7  8  9 
+ 1             A             
+ 2 M  A  T     M             
+ 3       A  V  E             
+ 4       P  A  N  E     B    
+ 5       I              Y    
+ 6       O  R  C  H     P    
+ 7       C              A    
+ 8       A              S    
+ 9       S  H  I  A  T  S  U 
+Solution 21
+   1  2  3  4  5  6  7  8  9 
+ 1             G             
+ 2 A  P  T     L             
+ 3       A  V  E             
+ 4       P  A  N  T     M    
+ 5       R              I    
+ 6       O  U  R  S     L    
+ 7       O              E    
+ 8       T              R    
+ 9       S  U  G  G  E  S  T 
+Solution 22
+   1  2  3  4  5  6  7  8  9 
+ 1             A             
+ 2 O  A  T     M             
+ 3       A  V  E             
+ 4       P  A  N  T     Y    
+ 5       R              E    
+ 6       O  A  T  S     A    
+ 7       O              S    
+ 8       M              T    
+ 9       S  O  P  H  I  S  M 
+Solution 23
+   1  2  3  4  5  6  7  8  9 
+ 1             O             
+ 2 V  E  T     V             
+ 3       A  V  E             
+ 4       P  A  N  G     U    
+ 5       R              N    
+ 6       O  R  A  L     I    
+ 7       O              T    
+ 8       T              E    
+ 9       S  O  P  H  I  S  M 
+Solution 24
+   1  2  3  4  5  6  7  8  9 
+ 1             L             
+ 2 N  I  T     I             
+ 3       A  V  E             
+ 4       P  A  N  T     W    
+ 5       R              A    
+ 6       O  O  P  S     V    
+ 7       O              E    
+ 8       T              Y    
+ 9       S  H  Y  N  E  S  S 
+Solution 25
+   1  2  3  4  5  6  7  8  9 
+ 1             O             
+ 2 L  I  T     P             
+ 3       A  V  E             
+ 4       P  A  N  G     D    
+ 5       R              H    
+ 6       O  V  E  N     O    
+ 7       O              L    
+ 8       M              E    
+ 9       S  O  P  H  I  S  T 
+Solution 26
+   1  2  3  4  5  6  7  8  9 
+ 1             O             
+ 2 S  I  T     P             
+ 3       A  V  E             
+ 4       P  A  N  G     D    
+ 5       H              E    
+ 6       O  H  M  S     I    
+ 7       L              C    
+ 8       E              E    
+ 9       S  O  F  T  E  S  T 
+Solution 27
+   1  2  3  4  5  6  7  8  9 
+ 1             T             
+ 2 K  I  T     H             
+ 3       A  V  E             
+ 4       P  A  N  E     G    
+ 5       H              R    
+ 6       O  D  D  S     E    
+ 7       L              E    
+ 8       E              N    
+ 9       S  U  B  M  I  S  S 
+Solution 28
+   1  2  3  4  5  6  7  8  9 
+ 1             S             
+ 2 M  O  T     E             
+ 3       A  V  E             
+ 4       P  A  N  G     I    
+ 5       R              N    
+ 6       O  W  E  S     T    
+ 7       O              R    
+ 8       T              O    
+ 9       S  L  O  W  E  S  T 
+Solution 29
+   1  2  3  4  5  6  7  8  9 
+ 1             E             
+ 2 I  N  T     D             
+ 3       A  V  E             
+ 4       P  A  N  G     K    
+ 5       H              E    
+ 6       O  L  E  S     F    
+ 7       L              I    
+ 8       E              R    
+ 9       S  L  O  W  E  S  T 
+Solution 30
+   1  2  3  4  5  6  7  8  9 
+ 1             O             
+ 2 T  U  T     M             
+ 3       A  V  E             
+ 4       P  A  N  S     Y    
+ 5       R              I    
+ 6       O  V  E  N     E    
+ 7       O              L    
+ 8       T              D    
+ 9       S  T  O  N  I  S  H 
+Solution 31
+   1  2  3  4  5  6  7  8  9 
+ 1             E             
+ 2 W  E  T     D             
+ 3       A  V  E             
+ 4       P  A  N  G     K    
+ 5       R              A    
+ 6       O  D  Y  L     Y    
+ 7       O              O    
+ 8       T              E    
+ 9       S  T  R  A  U  S  S 
+Solution 32
+   1  2  3  4  5  6  7  8  9 
+ 1             K             
+ 2 E  X  T     E             
+ 3       A  V  E             
+ 4       P  A  N  E     L    
+ 5       I              A    
+ 6       O  U  S  T     D    
+ 7       C              L    
+ 8       A              E    
+ 9       S  O  U  R  E  S  T 
+Solution 33
+   1  2  3  4  5  6  7  8  9 
+ 1             O             
+ 2 F  A  T     M             
+ 3       A  V  E             
+ 4       P  A  N  T     T    
+ 5       R              O    
+ 6       O  I  L  Y     N    
+ 7       O              I    
+ 8       M              E    
+ 9       S  T  O  N  I  S  H 
+Solution 34
+   1  2  3  4  5  6  7  8  9 
+ 1             T             
+ 2 S  E  T     H             
+ 3       A  V  E             
+ 4       P  A  N  T     R    
+ 5       I              I    
+ 6       O  L  E  S     Y    
+ 7       C              A    
+ 8       A              L    
+ 9       S  O  O  N  E  S  T 
+Solution 35
+   1  2  3  4  5  6  7  8  9 
+ 1             W             
+ 2 A  P  T     E             
+ 3       A  V  E             
+ 4       P  A  N  G     A    
+ 5       H              N    
+ 6       O  Y  E  R     I    
+ 7       L              M    
+ 8       E              U    
+ 9       S  T  R  A  U  S  S 
+Solution 36
+   1  2  3  4  5  6  7  8  9 
+ 1             P             
+ 2 G  A  T     E             
+ 3       A  V  E             
+ 4       P  A  N  E     H    
+ 5       I              U    
+ 6       O  A  T  S     M    
+ 7       C              O    
+ 8       A              R    
+ 9       S  L  Y  N  E  S  S 
+Solution 37
+   1  2  3  4  5  6  7  8  9 
+ 1             O             
+ 2 B  U  T     P             
+ 3       A  V  E             
+ 4       P  A  N  E     F    
+ 5       I              U    
+ 6       O  R  E  S     R    
+ 7       C              O    
+ 8       A              R    
+ 9       S  E  X  L  E  S  S 
+Solution 38
+   1  2  3  4  5  6  7  8  9 
+ 1             A             
+ 2 O  P  T     M             
+ 3       A  V  E             
+ 4       P  A  N  S     N    
+ 5       H              A    
+ 6       O  K  A  Y     C    
+ 7       L              R    
+ 8       E              E    
+ 9       S  I  K  H  I  S  M 
+Solution 39
+   1  2  3  4  5  6  7  8  9 
+ 1             G             
+ 2 B  U  T     L             
+ 3       A  V  E             
+ 4       P  A  N  G     K    
+ 5       R              Y    
+ 6       O  B  O  L     R    
+ 7       O              I    
+ 8       T              E    
+ 9       S  H  I  C  K  S  A 
+Solution 40
+   1  2  3  4  5  6  7  8  9 
+ 1             E             
+ 2 N  I  T     V             
+ 3       A  V  E             
+ 4       P  A  N  E     Y    
+ 5       R              E    
+ 6       O  A  T  S     R    
+ 7       O              B    
+ 8       T              A    
+ 9       S  I  K  H  I  S  M 
+Solution 41
+   1  2  3  4  5  6  7  8  9 
+ 1             O             
+ 2 C  A  T     P             
+ 3       A  V  E             
+ 4       P  A  N  E     P    
+ 5       R              L    
+ 6       O  N  L  Y     E    
+ 7       O              X    
+ 8       T              U    
+ 9       S  H  I  A  T  S  U 
+Solution 42
+   1  2  3  4  5  6  7  8  9 
+ 1             O             
+ 2 O  A  T     X             
+ 3       A  V  E             
+ 4       P  A  N  S     S    
+ 5       R              C    
+ 6       O  B  I  T     A    
+ 7       O              M    
+ 8       T              P    
+ 9       S  T  A  L  E  S  T 
+Solution 43
+   1  2  3  4  5  6  7  8  9 
+ 1             O             
+ 2 T  N  T     P             
+ 3       A  V  E             
+ 4       P  A  N  S     I    
+ 5       H              B    
+ 6       O  Y  E  S     E    
+ 7       L              X    
+ 8       E              E    
+ 9       S  A  L  T  I  S  H 
+Solution 44
+   1  2  3  4  5  6  7  8  9 
+ 1             W             
+ 2 C  W  T     R             
+ 3       A  V  E             
+ 4       P  A  N  S     R    
+ 5       H              A    
+ 6       O  U  Z  O     Z    
+ 7       L              O    
+ 8       E              R    
+ 9       S  I  A  M  E  S  E 
+Solution 45
+   1  2  3  4  5  6  7  8  9 
+ 1             T             
+ 2 P  E  T     E             
+ 3       A  V  E             
+ 4       P  A  N  E     S    
+ 5       H              T    
+ 6       O  D  I  N     I    
+ 7       L              L    
+ 8       E              L    
+ 9       S  O  L  O  I  S  T 
+Solution 46
+   1  2  3  4  5  6  7  8  9 
+ 1             O             
+ 2 C  S  T     M             
+ 3       A  V  E             
+ 4       P  A  N  E     H    
+ 5       R              A    
+ 6       O  N  L  Y     G    
+ 7       O              G    
+ 8       T              I    
+ 9       S  E  L  F  I  S  H 
+Solution 47
+   1  2  3  4  5  6  7  8  9 
+ 1             W             
+ 2 A  L  T     H             
+ 3       A  V  E             
+ 4       P  A  N  E     B    
+ 5       R              E    
+ 6       O  I  N  K     V    
+ 7       O              E    
+ 8       T              L    
+ 9       S  U  B  T  A  S  K 
+Solution 48
+   1  2  3  4  5  6  7  8  9 
+ 1             S             
+ 2 M  A  T     E             
+ 3       A  V  E             
+ 4       P  A  N  S     S    
+ 5       H              M    
+ 6       O  O  P  S     O    
+ 7       L              K    
+ 8       E              E    
+ 9       S  O  U  R  E  S  T 
+Solution 49
+   1  2  3  4  5  6  7  8  9 
+ 1             W             
+ 2 L  E  T     E             
+ 3       A  V  E             
+ 4       P  A  N  E     S    
+ 5       R              C    
+ 6       O  V  I  D     A    
+ 7       O              R    
+ 8       T              E    
+ 9       S  T  A  T  I  S  M 
+Solution 50
+   1  2  3  4  5  6  7  8  9 
+ 1             O             
+ 2 H  U  T     P             
+ 3       A  V  E             
+ 4       P  A  N  S     V    
+ 5       R              I    
+ 6       O  X  E  N     S    
+ 7       O              T    
+ 8       M              A    
+ 9       S  A  D  N  E  S  S 
+Solution 51
+   1  2  3  4  5  6  7  8  9 
+ 1             A             
+ 2 C  W  T     M             
+ 3       A  V  E             
+ 4       P  A  N  E     D    
+ 5       H              U    
+ 6       O  D  Y  L     R    
+ 7       L              E    
+ 8       E              S    
+ 9       S  O  U  R  I  S  H 
+Solution 52
+   1  2  3  4  5  6  7  8  9 
+ 1             A             
+ 2 P  E  T     M             
+ 3       A  V  E             
+ 4       P  A  N  S     F    
+ 5       R              E    
+ 6       O  N  L  Y     R    
+ 7       O              R    
+ 8       T              I    
+ 9       S  I  C  K  E  S  T 
+Solution 53
+   1  2  3  4  5  6  7  8  9 
+ 1             L             
+ 2 M  K  T     I             
+ 3       A  V  E             
+ 4       P  A  N  E     R    
+ 5       R              U    
+ 6       O  L  I  O     P    
+ 7       O              E    
+ 8       M              E    
+ 9       S  E  X  L  E  S  S 
+Solution 54
+   1  2  3  4  5  6  7  8  9 
+ 1             L             
+ 2 E  X  T     I             
+ 3       A  V  E             
+ 4       P  A  N  E     B    
+ 5       H              R    
+ 6       O  P  T  S     A    
+ 7       L              N    
+ 8       E              D    
+ 9       S  L  O  W  E  S  T 
+Solution 55
+   1  2  3  4  5  6  7  8  9 
+ 1             T             
+ 2 H  O  T     H             
+ 3       A  V  E             
+ 4       P  A  N  T     E    
+ 5       H              N    
+ 6       O  L  E  S     N    
+ 7       L              U    
+ 8       E              I    
+ 9       S  L  O  W  E  S  T 
+Solution 56
+   1  2  3  4  5  6  7  8  9 
+ 1             G             
+ 2 M  E  T     L             
+ 3       A  V  E             
+ 4       P  A  N  S     M    
+ 5       R              O    
+ 6       O  M  E  N     O    
+ 7       O              L    
+ 8       T              A    
+ 9       S  T  A  L  E  S  T 
+Solution 57
+   1  2  3  4  5  6  7  8  9 
+ 1             W             
+ 2 S  O  T     E             
+ 3       A  V  E             
+ 4       P  A  N  S     A    
+ 5       I              B    
+ 6       O  U  R  S     H    
+ 7       C              O    
+ 8       A              R    
+ 9       S  T  A  T  I  S  T 
+Solution 58
+   1  2  3  4  5  6  7  8  9 
+ 1             E             
+ 2 S  O  T     D             
+ 3       A  V  E             
+ 4       P  A  N  S     M    
+ 5       I              O    
+ 6       O  I  N  K     R    
+ 7       C              E    
+ 8       A              L    
+ 9       S  A  R  C  A  S  M 
+Solution 59
+   1  2  3  4  5  6  7  8  9 
+ 1             A             
+ 2 J  C  T     M             
+ 3       A  V  E             
+ 4       P  A  N  G     S    
+ 5       I              C    
+ 6       O  T  I  C     U    
+ 7       C              R    
+ 8       A              F    
+ 9       S  T  A  L  E  S  T 
+Solution 60
+   1  2  3  4  5  6  7  8  9 
+ 1             O             
+ 2 P  E  T     V             
+ 3       A  V  E             
+ 4       P  A  N  E     A    
+ 5       R              W    
+ 6       O  B  I  S     A    
+ 7       O              I    
+ 8       T              T    
+ 9       S  O  U  R  E  S  T 
+Solution 61
+   1  2  3  4  5  6  7  8  9 
+ 1             W             
+ 2 E  A  T     R             
+ 3       A  V  E             
+ 4       P  A  N  E     H    
+ 5       R              E    
+ 6       O  R  T  S     A    
+ 7       O              V    
+ 8       T              E    
+ 9       S  T  A  L  E  S  T 
+Solution 62
+   1  2  3  4  5  6  7  8  9 
+ 1             P             
+ 2 P  O  T     E             
+ 3       A  V  E             
+ 4       P  A  N  G     C    
+ 5       R              A    
+ 6       O  V  E  R     L    
+ 7       O              X    
+ 8       T              E    
+ 9       S  P  R  Y  E  S  T 
+Solution 63
+   1  2  3  4  5  6  7  8  9 
+ 1             O             
+ 2 S  O  T     M             
+ 3       A  V  E             
+ 4       P  A  N  G     S    
+ 5       R              N    
+ 6       O  A  R  S     E    
+ 7       O              A    
+ 8       T              K    
+ 9       S  A  R  C  A  S  M 
+Solution 64
+   1  2  3  4  5  6  7  8  9 
+ 1             M             
+ 2 T  I  T     I             
+ 3       A  V  E             
+ 4       P  A  N  T     C    
+ 5       H              Y    
+ 6       O  I  L  S     C    
+ 7       L              L    
+ 8       E              E    
+ 9       S  U  C  C  E  S  S 
+Solution 65
+   1  2  3  4  5  6  7  8  9 
+ 1             O             
+ 2 O  R  T     M             
+ 3       A  V  E             
+ 4       P  A  N  T     M    
+ 5       H              O    
+ 6       O  N  T  O     R    
+ 7       L              E    
+ 8       E              L    
+ 9       S  T  A  T  I  S  M 
+Solution 66
+   1  2  3  4  5  6  7  8  9 
+ 1             E             
+ 2 W  I  T     D             
+ 3       A  V  E             
+ 4       P  A  N  S     C    
+ 5       R              O    
+ 6       O  X  E  N     A    
+ 7       O              C    
+ 8       M              T    
+ 9       S  P  A  R  E  S  T 
+Solution 67
+   1  2  3  4  5  6  7  8  9 
+ 1             W             
+ 2 P  U  T     E             
+ 3       A  V  E             
+ 4       P  A  N  S     C    
+ 5       R              O    
+ 6       O  W  E  S     P    
+ 7       O              R    
+ 8       T              A    
+ 9       S  P  R  I  E  S  T 
+Solution 68
+   1  2  3  4  5  6  7  8  9 
+ 1             L             
+ 2 U  L  T     I             
+ 3       A  V  E             
+ 4       P  A  N  E     R    
+ 5       R              I    
+ 6       O  O  P  S     N    
+ 7       O              S    
+ 8       M              E    
+ 9       S  U  B  B  A  S  S 
+Solution 69
+   1  2  3  4  5  6  7  8  9 
+ 1             W             
+ 2 S  E  T     H             
+ 3       A  V  E             
+ 4       P  A  N  G     B    
+ 5       R              L    
+ 6       O  Y  E  R     A    
+ 7       O              N    
+ 8       M              K    
+ 9       S  T  O  N  I  S  H 
+Solution 70
+   1  2  3  4  5  6  7  8  9 
+ 1             W             
+ 2 F  A  T     R             
+ 3       A  V  E             
+ 4       P  A  N  E     A    
+ 5       I              L    
+ 6       O  R  T  S     L    
+ 7       C              O    
+ 8       A              W    
+ 9       S  T  O  N  I  S  H 
+Solution 71
+   1  2  3  4  5  6  7  8  9 
+ 1             O             
+ 2 F  A  T     M             
+ 3       A  V  E             
+ 4       P  A  N  G     M    
+ 5       R              Y    
+ 6       O  V  E  R     O    
+ 7       O              P    
+ 8       T              E    
+ 9       S  A  L  T  I  S  H 
+Solution 72
+   1  2  3  4  5  6  7  8  9 
+ 1             L             
+ 2 B  A  T     I             
+ 3       A  V  E             
+ 4       P  A  N  S     G    
+ 5       I              O    
+ 6       O  A  K  S     F    
+ 7       C              E    
+ 8       A              R    
+ 9       S  E  X  L  E  S  S 
+Solution 73
+   1  2  3  4  5  6  7  8  9 
+ 1             B             
+ 2 O  F  T     E             
+ 3       A  V  E             
+ 4       P  A  N  G     B    
+ 5       R              R    
+ 6       O  P  E  N     O    
+ 7       O              M    
+ 8       T              O    
+ 9       S  E  E  R  E  S  S 
+Solution 74
+   1  2  3  4  5  6  7  8  9 
+ 1             O             
+ 2 K  I  T     V             
+ 3       A  V  E             
+ 4       P  A  N  G     A    
+ 5       R              M    
+ 6       O  V  E  N     O    
+ 7       O              U    
+ 8       M              R    
+ 9       S  U  B  S  I  S  T 
+Solution 75
+   1  2  3  4  5  6  7  8  9 
+ 1             O             
+ 2 R  O  T     P             
+ 3       A  V  E             
+ 4       P  A  N  T     I    
+ 5       I              N    
+ 6       O  R  C  S     N    
+ 7       C              E    
+ 8       A              R    
+ 9       S  I  K  H  I  S  M 
+Solution 76
+   1  2  3  4  5  6  7  8  9 
+ 1             E             
+ 2 B  I  T     V             
+ 3       A  V  E             
+ 4       P  A  N  S     K    
+ 5       R              I    
+ 6       O  D  I  C     T    
+ 7       O              E    
+ 8       T              R    
+ 9       S  N  I  D  E  S  T 
+Solution 77
+   1  2  3  4  5  6  7  8  9 
+ 1             B             
+ 2 O  F  T     E             
+ 3       A  V  E             
+ 4       P  A  N  T     S    
+ 5       R              T    
+ 6       O  L  E  O     E    
+ 7       O              I    
+ 8       T              N    
+ 9       S  U  G  G  E  S  T 
+Solution 78
+   1  2  3  4  5  6  7  8  9 
+ 1             E             
+ 2 L  O  T     V             
+ 3       A  V  E             
+ 4       P  A  N  E     T    
+ 5       R              W    
+ 6       O  L  L  A     A    
+ 7       O              N    
+ 8       M              G    
+ 9       S  O  U  R  I  S  H 
+Solution 79
+   1  2  3  4  5  6  7  8  9 
+ 1             L             
+ 2 L  I  T     I             
+ 3       A  V  E             
+ 4       P  A  N  S     R    
+ 5       H              I    
+ 6       O  A  T  H     G    
+ 7       L              O    
+ 8       E              R    
+ 9       S  E  E  R  E  S  S 
+Solution 80
+   1  2  3  4  5  6  7  8  9 
+ 1             K             
+ 2 A  L  T     E             
+ 3       A  V  E             
+ 4       P  A  N  E     V    
+ 5       H              I    
+ 6       O  X  E  S     R    
+ 7       L              G    
+ 8       E              O    
+ 9       S  O  F  T  E  S  T 
+Solution 81
+   1  2  3  4  5  6  7  8  9 
+ 1             E             
+ 2 P  C  T     V             
+ 3       A  V  E             
+ 4       P  A  N  G     F    
+ 5       R              U    
+ 6       O  R  Y  X     M    
+ 7       O              E    
+ 8       T              T    
+ 9       S  O  F  T  E  S  T 
+Solution 82
+   1  2  3  4  5  6  7  8  9 
+ 1             K             
+ 2 B  E  T     E             
+ 3       A  V  E             
+ 4       P  A  N  G     T    
+ 5       R              R    
+ 6       O  B  O  E     I    
+ 7       O              B    
+ 8       M              E    
+ 9       S  U  N  F  I  S  H 
+Solution 83
+   1  2  3  4  5  6  7  8  9 
+ 1             B             
+ 2 P  E  T     E             
+ 3       A  V  E             
+ 4       P  A  N  E     G    
+ 5       R              I    
+ 6       O  P  A  L     A    
+ 7       O              N    
+ 8       M              T    
+ 9       S  U  A  V  E  S  T 
+Solution 84
+   1  2  3  4  5  6  7  8  9 
+ 1             T             
+ 2 R  O  T     E             
+ 3       A  V  E             
+ 4       P  A  N  E     L    
+ 5       R              I    
+ 6       O  O  H  S     V    
+ 7       O              R    
+ 8       M              E    
+ 9       S  O  P  H  I  S  M 
+Solution 85
+   1  2  3  4  5  6  7  8  9 
+ 1             L             
+ 2 J  U  T     I             
+ 3       A  V  E             
+ 4       P  A  N  T     L    
+ 5       I              A    
+ 6       O  H  I  O     T    
+ 7       C              E    
+ 8       A              N    
+ 9       S  U  P  P  O  S  E 
+Solution 86
+   1  2  3  4  5  6  7  8  9 
+ 1             W             
+ 2 A  B  T     R             
+ 3       A  V  E             
+ 4       P  A  N  E     H    
+ 5       R              A    
+ 6       O  V  E  R     Z    
+ 7       O              E    
+ 8       T              R    
+ 9       S  P  R  I  E  S  T 
+Solution 87
+   1  2  3  4  5  6  7  8  9 
+ 1             L             
+ 2 P  C  T     I             
+ 3       A  V  E             
+ 4       P  A  N  G     A    
+ 5       I              U    
+ 6       O  W  E  S     D    
+ 7       C              I    
+ 8       A              T    
+ 9       S  O  P  H  I  S  M 
+Solution 88
+   1  2  3  4  5  6  7  8  9 
+ 1             O             
+ 2 F  I  T     V             
+ 3       A  V  E             
+ 4       P  A  N  S     B    
+ 5       R              L    
+ 6       O  R  G  Y     O    
+ 7       O              K    
+ 8       M              E    
+ 9       S  E  X  I  E  S  T 
+Solution 89
+   1  2  3  4  5  6  7  8  9 
+ 1             P             
+ 2 M  K  T     E             
+ 3       A  V  E             
+ 4       P  A  N  S     C    
+ 5       R              L    
+ 6       O  D  D  S     E    
+ 7       O              A    
+ 8       T              R    
+ 9       S  O  U  R  E  S  T 
+Solution 90
+   1  2  3  4  5  6  7  8  9 
+ 1             E             
+ 2 H  I  T     V             
+ 3       A  V  E             
+ 4       P  A  N  S     T    
+ 5       I              E    
+ 6       O  U  R  S     S    
+ 7       C              T    
+ 8       A              I    
+ 9       S  L  O  W  I  S  H 
+Solution 91
+   1  2  3  4  5  6  7  8  9 
+ 1             W             
+ 2 J  C  T     H             
+ 3       A  V  E             
+ 4       P  A  N  T     E    
+ 5       R              X    
+ 6       O  A  F  S     I    
+ 7       O              L    
+ 8       T              E    
+ 9       S  L  O  W  E  S  T 
+Solution 92
+   1  2  3  4  5  6  7  8  9 
+ 1             B             
+ 2 V  A  T     E             
+ 3       A  V  E             
+ 4       P  A  N  S     S    
+ 5       R              T    
+ 6       O  I  N  K     I    
+ 7       O              L    
+ 8       M              L    
+ 9       S  U  P  P  O  S  E 
+Solution 93
+   1  2  3  4  5  6  7  8  9 
+ 1             O             
+ 2 G  E  T     X             
+ 3       A  V  E             
+ 4       P  A  N  T     G    
+ 5       R              R    
+ 6       O  R  G  Y     A    
+ 7       O              N    
+ 8       T              T    
+ 9       S  A  C  R  I  S  T 
+Solution 94
+   1  2  3  4  5  6  7  8  9 
+ 1             O             
+ 2 A  L  T     X             
+ 3       A  V  E             
+ 4       P  A  N  T     G    
+ 5       R              R    
+ 6       O  D  D  S     U    
+ 7       O              E    
+ 8       T              L    
+ 9       S  A  W  D  U  S  T 
+Solution 95
+   1  2  3  4  5  6  7  8  9 
+ 1             O             
+ 2 O  P  T     M             
+ 3       A  V  E             
+ 4       P  A  N  S     S    
+ 5       I              T    
+ 6       O  U  Z  O     R    
+ 7       C              A    
+ 8       A              W    
+ 9       S  A  R  C  A  S  M 
+Solution 96
+   1  2  3  4  5  6  7  8  9 
+ 1             E             
+ 2 O  P  T     D             
+ 3       A  V  E             
+ 4       P  A  N  T     L    
+ 5       R              O    
+ 6       O  B  E  Y     U    
+ 7       O              S    
+ 8       T              E    
+ 9       S  H  I  C  K  S  A 
+Solution 97
+   1  2  3  4  5  6  7  8  9 
+ 1             T             
+ 2 C  I  T     H             
+ 3       A  V  E             
+ 4       P  A  N  S     G    
+ 5       R              R    
+ 6       O  W  N  S     E    
+ 7       O              E    
+ 8       M              K    
+ 9       S  I  N  L  E  S  S 
+Solution 98
+   1  2  3  4  5  6  7  8  9 
+ 1             K             
+ 2 C  U  T     E             
+ 3       A  V  E             
+ 4       P  A  N  T     G    
+ 5       R              R    
+ 6       O  H  E  D     A    
+ 7       O              V    
+ 8       M              E    
+ 9       S  H  I  C  K  S  A 
+Solution 99
+   1  2  3  4  5  6  7  8  9 
+ 1             W             
+ 2 M  O  T     H             
+ 3       A  V  E             
+ 4       P  A  N  S     I    
+ 5       R              M    
+ 6       O  N  T  O     B    
+ 7       O              E    
+ 8       T              D    
+ 9       S  U  R  P  A  S  S 
+Solution 100
+   1  2  3  4  5  6  7  8  9 
+ 1             O             
+ 2 O  R  T     V             
+ 3       A  V  E             
+ 4       P  A  N  S     G    
+ 5       R              H    
+ 6       O  H  M  S     O    
+ 7       O              U    
+ 8       M              L    
+ 9       S  E  L  F  I  S  H 
+5.68601465225
